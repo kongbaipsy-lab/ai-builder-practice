@@ -1,0 +1,2551 @@
+[
+  {
+    "number": 1,
+    "type": "single",
+    "prompt": "“Agent\"在课程中指的是什么?",
+    "options": [
+      {
+        "label": "A",
+        "text": "高级算法"
+      },
+      {
+        "label": "B",
+        "text": "一类具有独立行为能力的智能体"
+      },
+      {
+        "label": "C",
+        "text": "数据分析模块"
+      },
+      {
+        "label": "D",
+        "text": "人工编写的代码脚本隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Agent (智能体) 不仅是算法，更是能够感知环境、进行推理、做出决策并采取行动以实现目标的独立实体。",
+    "image": "/questions/single-1.jpg"
+  },
+  {
+    "number": 2,
+    "type": "single",
+    "prompt": "以下哪项不属于人工智能的发展阶段?",
+    "options": [
+      {
+        "label": "A",
+        "text": "早期推理阶段"
+      },
+      {
+        "label": "B",
+        "text": "机器学习阶段"
+      },
+      {
+        "label": "C",
+        "text": "深度学习阶段"
+      },
+      {
+        "label": "D",
+        "text": "数据挖掘阶段隐藏答案未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "ALBBe Zs认的三个主要阶段是早期推理 (符Toa义) 、机器学习和深度学习。数据挖掘是处理数据的一项技术手段，不作为独立的发展大阶段。",
+    "image": "/questions/single-2.jpg"
+  },
+  {
+    "number": 4,
+    "type": "single",
+    "prompt": "AutoGen的核心功能不包括以下哪项?",
+    "options": [
+      {
+        "label": "A",
+        "text": "添加自定义技能"
+      },
+      {
+        "label": "B",
+        "text": "模型配置与场景演示"
+      },
+      {
+        "label": "C",
+        "text": "多智能体协作"
+      },
+      {
+        "label": "D",
+        "text": "手工下载模型未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "AutoGen是微软开发的框架核心在于多智能体协作和技能扩展，它通常通过API调用模型RMF下载模型\"为核心功能",
+    "image": "/questions/single-4.jpg"
+  },
+  {
+    "number": 5,
+    "type": "single",
+    "prompt": "智能客服系统的核心设计流程中，第一步是什么?",
+    "options": [
+      {
+        "label": "A",
+        "text": "后端配置"
+      },
+      {
+        "label": "B",
+        "text": "智能客服Agent演示"
+      },
+      {
+        "label": "C",
+        "text": "工作流配置"
+      },
+      {
+        "label": "D",
+        "text": "集成在线表格未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在构建复杂Agent时，首先需要定义任务的逻辑流，即工作流配置，这是后续后端集成和演示的基础。",
+    "image": "/questions/single-5.jpg"
+  },
+  {
+    "number": 6,
+    "type": "single",
+    "prompt": "RAG的全称是什么?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Remote Agent Generator© BRetrieval-Augmented Generation"
+      },
+      {
+        "label": "C",
+        "text": "Rapid Al Growth"
+      },
+      {
+        "label": "D",
+        "text": "Reactive Al GatewayB"
+      }
+    ],
+    "answer": "B",
+    "explanation": "RAG的全称是Retrieval-Augmented Generation (检索增强生成) ，通过检索外部知识库来提升大模型的匠答准确性。",
+    "image": "/questions/single-6.jpg"
+  },
+  {
+    "number": 7,
+    "type": "single",
+    "prompt": "以下哪项技术并未在课程中提及作为智能体集成能力?",
+    "options": [
+      {
+        "label": "A",
+        "text": "图生视频BTah十辫训别"
+      },
+      {
+        "label": "C",
+        "text": "股a===信息查询"
+      },
+      {
+        "label": "D",
+        "text": "文生图隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题基于特定课程大纲，在Coze等平台中，haw.证立训别通常作为基础交互层或独立插件，但在本课演示集成案例中未作为核心Agent技能展示",
+    "image": "/questions/single-7.jpg"
+  },
+  {
+    "number": 8,
+    "type": "single",
+    "prompt": "DB-GPT的核心功能中，以下哪项不是其应用?AEXxcel对话",
+    "options": [
+      {
+        "label": "B",
+        "text": "数据库对话"
+      },
+      {
+        "label": "C",
+        "text": "图像生成"
+      },
+      {
+        "label": "D",
+        "text": "统计图表生成未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "DB-GPT专注于数据库与大模型的YE-nA,>核心应用包括数据库对话、数据分析及图表生成，不包含通用的图像创作功能。",
+    "image": "/questions/single-8.jpg"
+  },
+  {
+    "number": 10,
+    "type": "single",
+    "prompt": "\"FastGPT\"“中不支持的功Be是哪一个?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库配置"
+      },
+      {
+        "label": "B",
+        "text": "智能客服"
+      },
+      {
+        "label": "C",
+        "text": "私有部署"
+      },
+      {
+        "label": "D",
+        "text": "数据库管理ee te隐aa未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "image": "/questions/single-10.jpg"
+  },
+  {
+    "number": 11,
+    "type": "single",
+    "prompt": "以下哪项不是搭建智能客服系统时需要考虑的关键点?",
+    "options": [
+      {
+        "label": "A",
+        "text": "后端工作原理"
+      },
+      {
+        "label": "B",
+        "text": "工作流配置@ c用户界面设计"
+      },
+      {
+        "label": "D",
+        "text": "集成在线表格C"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在Agent逻辑开发中，后端原理、工作流和数据集成(在线表格) 是功能核心，UI设计通常属于前端范畴，不作为Agent逻辑层关键点",
+    "image": "/questions/single-11.jpg"
+  },
+  {
+    "number": 12,
+    "type": "single",
+    "prompt": "AutoGen的多智能体协作演示主要体现了什么能力?",
+    "options": [
+      {
+        "label": "A",
+        "text": "单一任务处理"
+      },
+      {
+        "label": "B",
+        "text": "复杂任务分解与协同"
+      },
+      {
+        "label": "C",
+        "text": "数据库直接操作"
+      },
+      {
+        "label": "D",
+        "text": "独立运行无协作隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "多智能体协作的核心价值在于通过角色分工，将单一模型难以处理的复杂任务进行有效分解和协同完成。",
+    "image": "/questions/single-12.jpg"
+  },
+  {
+    "number": 13,
+    "type": "single",
+    "prompt": "课程中提到的“微调ChatGLM3\"属于什么操作?",
+    "options": [
+      {
+        "label": "A",
+        "text": "数据清洗"
+      },
+      {
+        "label": "B",
+        "text": "模型部署"
+      },
+      {
+        "label": "C",
+        "text": "模型优化"
+      },
+      {
+        "label": "D",
+        "text": "数据可视化隐藏答案未作答C"
+      }
+    ],
+    "answer": "C",
+    "explanation": "微调 (Fine-tuning) 是利用特定领域数据对预训练模型进/一一qT次训练，目的是优化模型在该领域的表现。",
+    "image": "/questions/single-13.jpg"
+  },
+  {
+    "number": 14,
+    "type": "single",
+    "prompt": "“外挂本地知识库\"在课程中提到的主要作用是什么?",
+    "options": [
+      {
+        "label": "A",
+        "text": "蔡代云端模型"
+      },
+      {
+        "label": "B",
+        "text": "增强本地模型的能力"
+      },
+      {
+        "label": "C",
+        "text": "仅用于数据存储"
+      },
+      {
+        "label": "D",
+        "text": "提供纯文本支持未作答确答案B"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本地知识库通过RAG技术，为模型提供专有知识参考，从而增强模型区答的准确性和专业深度。",
+    "image": "/questions/single-14.jpg"
+  },
+  {
+    "number": 16,
+    "type": "single",
+    "prompt": "商用大模型的部署中，GPU服务器的主要作用是",
+    "options": [
+      {
+        "label": "A",
+        "text": "提升模型的训练速度"
+      },
+      {
+        "label": "B",
+        "text": "支持大规模的推理任务"
+      },
+      {
+        "label": "C",
+        "text": "实现数据的实时采集"
+      },
+      {
+        "label": "D",
+        "text": "加速模型的微调过程未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在商用生产环境下，GPU的主要任务是承载高并发的模型预测 (推理) 请求，以保证响应速度。",
+    "image": "/questions/single-16.jpg"
+  },
+  {
+    "number": 17,
+    "type": "single",
+    "prompt": "以下哪种数据类型在 Python 中属于可变序列类型?",
+    "options": [
+      {
+        "label": "A",
+        "text": "整数 (int)"
+      },
+      {
+        "label": "B",
+        "text": "字符串 (str)"
+      },
+      {
+        "label": "C",
+        "text": "列表 (list)"
+      },
+      {
+        "label": "D",
+        "text": "字典 (dict)隐藏答案未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "列表 (list) 是可变的序列; 字典 (dict) 虽可变但属型| ;a4于映射类Ses Te数和字符串均为不可变类型。",
+    "image": "/questions/single-17.jpg"
+  },
+  {
+    "number": 18,
+    "type": "single",
+    "prompt": "以下哪种循环结构在 Python 中适用于遍历序列?Awhile 循环Bfor 循环Cdo...while 循环Dswitch 循环未作答B",
+    "options": [],
+    "answer": "B",
+    "explanation": "Python中for..in结构专门设计用遍历列表元组、字符串等ch Ae,peas从代器和序列对象。",
+    "image": "/questions/single-18.jpg"
+  },
+  {
+    "number": 19,
+    "type": "single",
+    "prompt": "在 Python 中，如何定义一个函数?",
+    "options": [
+      {
+        "label": "A",
+        "text": "使用 func 关键字"
+      },
+      {
+        "label": "B",
+        "text": "使用 define 关键字"
+      },
+      {
+        "label": "C",
+        "text": "使用 def 关键字"
+      },
+      {
+        "label": "D",
+        "text": "使用 function 关键字未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Python使用def (define的缩写) 作为定义函数的关键字。",
+    "image": "/questions/single-19.jpg"
+  },
+  {
+    "number": 20,
+    "type": "single",
+    "prompt": "以下哪个是 Python 中用于异常处理的语句?Atry...exceptBtry...catchCtry...finallyDtry...else未作答",
+    "options": [],
+    "answer": "A",
+    "explanation": "Python的异常捕获关键字是try和except，不同于Java/C++的catch。",
+    "image": "/questions/single-20.jpg"
+  },
+  {
+    "number": 25,
+    "type": "single",
+    "prompt": "在制作高质量营销海报时，以下哪种工具被重点提及?",
+    "options": [
+      {
+        "label": "A",
+        "text": "扣子空间"
+      },
+      {
+        "label": "B",
+        "text": "PhotoshopClilustrator"
+      },
+      {
+        "label": "D",
+        "text": "Canva未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "课程重点在如何利用Coze (扣子) 集成的插件或工作流动生成营销素材，而非传统设计软件。",
+    "image": "/questions/single-25.jpg"
+  },
+  {
+    "number": 27,
+    "type": "single",
+    "prompt": "在 Python 中，用于定义类的关键字是?AclassBstructCtypeDobject未作答",
+    "options": [],
+    "answer": "A",
+    "explanation": "Python使用标准面向对象关键字class来定义类。",
+    "image": "/questions/single-27.jpg"
+  },
+  {
+    "number": 32,
+    "type": "single",
+    "prompt": "在 Python 中，以下哪种数据类型常用于存储多个键值对?",
+    "options": [
+      {
+        "label": "A",
+        "text": "列表 (list)"
+      },
+      {
+        "label": "B",
+        "text": "元组 (tuple)"
+      },
+      {
+        "label": "C",
+        "text": "字典 (dict)"
+      },
+      {
+        "label": "D",
+        "text": "集合 (set)未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "+(dict) 是以Key-Value (键值对) 形式存储数据的数据结构。",
+    "image": "/questions/single-32.jpg"
+  },
+  {
+    "number": 33,
+    "type": "single",
+    "prompt": "在智能换脸Bot的案例中，扩图节点的主要作用是什么?",
+    "options": [
+      {
+        "label": "A",
+        "text": "提升图像清晰度"
+      },
+      {
+        "label": "B",
+        "text": "蔡换模板底图中的人脸"
+      },
+      {
+        "label": "C",
+        "text": "对图像进行扩展，增加视野范围"
+      },
+      {
+        "label": "D",
+        "text": "融合人脸与背景未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "扩图 (Outpainting) 技术的核心作用是根据现有图像边缘向外延伸生成新的像素，从而扩大视野。",
+    "image": "/questions/single-33.jpg"
+  },
+  {
+    "number": 34,
+    "type": "single",
+    "prompt": "OpenAl CEO Sam Altman认为，智能体是实现以下哪一目标的载体?",
+    "options": [
+      {
+        "label": "A",
+        "text": "提高计算机性能"
+      },
+      {
+        "label": "B",
+        "text": "自动化业务流程解放人类"
+      },
+      {
+        "label": "C",
+        "text": "提升软件行业的效率"
+      },
+      {
+        "label": "D",
+        "text": "推动人工智能普及未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Altman曾多次提到Agent是AGI应用的重要形式，核心在能够执行任务，从而将人类从繁琐流程中解放出来。",
+    "image": "/questions/single-34.jpg"
+  },
+  {
+    "number": 35,
+    "type": "single",
+    "prompt": "Al智能体的主要功能包括以下哪几个方面?",
+    "options": [
+      {
+        "label": "A",
+        "text": "感知环境、决策和执行动作"
+      },
+      {
+        "label": "B",
+        "text": "提供语~5翻译和文档处理"
+      },
+      {
+        "label": "C",
+        "text": "设计图形界面和开发工具"
+      },
+      {
+        "label": "D",
+        "text": "网络安全防护和数据加密隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "这是Agent的标准三要素模型: Perception (感知) 、Decision (决策) 、Action (行动) 。",
+    "image": "/questions/single-35.jpg"
+  },
+  {
+    "number": 36,
+    "type": "single",
+    "prompt": "Coze平台的国内版主要支持以下哪个大模型?AGPT-4BGPT-3.5",
+    "options": [
+      {
+        "label": "C",
+        "text": "豆包大模型"
+      },
+      {
+        "label": "D",
+        "text": "Claude未作答C"
+      }
+    ],
+    "answer": "C",
+    "explanation": "字节跳动推出的Coze国内版主要基于其自研的“豆包\"”系列大模型。",
+    "image": "/questions/single-36.jpg"
+  },
+  {
+    "number": 39,
+    "type": "single",
+    "prompt": "在Coze中创建智能体时，以下哪一项是必填项?",
+    "options": [
+      {
+        "label": "A",
+        "text": "智能体图标"
+      },
+      {
+        "label": "B",
+        "text": "智能体名称"
+      },
+      {
+        "label": "C",
+        "text": "智能体功能介色"
+      },
+      {
+        "label": "D",
+        "text": "工作空间选择隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "智能体名称是系统的唯一性标识和基本属性，创建时必须指定。",
+    "image": "/questions/single-39.jpg"
+  },
+  {
+    "number": 40,
+    "type": "single",
+    "prompt": "Coze智能体的提示词不包括以下哪一项内容?",
+    "options": [
+      {
+        "label": "A",
+        "text": "人物设定"
+      },
+      {
+        "label": "B",
+        "text": "功能和流程描述"
+      },
+      {
+        "label": "C",
+        "text": "约束与限制"
+      },
+      {
+        "label": "D",
+        "text": "图像生成技巧未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "提示词主要定义Agent的行为逻辑、身份和规则。图像生成属于特定插件的能力，不属于核心通fea via]结构。",
+    "image": "/questions/single-40.jpg"
+  },
+  {
+    "number": 41,
+    "type": "single",
+    "prompt": "Coze平台支持的工作流节点中，以下哪一项不属于其核心功能?",
+    "options": [
+      {
+        "label": "A",
+        "text": "大语二I=模型"
+      },
+      {
+        "label": "B",
+        "text": "自定义代码"
+      },
+      {
+        "label": "C",
+        "text": "硬件驱动控制DFE隐藏答案未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Coze主要处理数字逻辑和信息流，不直接提供对物理硬件的底层驱动控制能力。",
+    "image": "/questions/single-41.jpg"
+  },
+  {
+    "number": 44,
+    "type": "single",
+    "prompt": "在文档提炼思维导图Bot中，最终生成的输出包括以下哪项?",
+    "options": [
+      {
+        "label": "A",
+        "text": "文本总结"
+      },
+      {
+        "label": "B",
+        "text": "思维导图图片和可编辑链接"
+      },
+      {
+        "label": "C",
+        "text": "视频文件"
+      },
+      {
+        "label": "D",
+        "text": "Excel表格隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "该Bot通过分析文档并调用图表生成插件，核心产物是可视化的思维导图及其在线编辑地址。",
+    "image": "/questions/single-44.jpg"
+  },
+  {
+    "number": 45,
+    "type": "single",
+    "prompt": "在智能换脸Bot的案例中，以下哪个节点用于提升图像清晰度?",
+    "options": [
+      {
+        "label": "A",
+        "text": "图像生成节点"
+      },
+      {
+        "label": "B",
+        "text": "画质提升节点"
+      },
+      {
+        "label": "C",
+        "text": "换脸节点"
+      },
+      {
+        "label": "D",
+        "text": "扩图节点未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "画质提升 (Upscaling/Enhancement) 节点专门用于亚和但法S2tS 7A Mo处理低分辩率或模糊图像，使其",
+    "image": "/questions/single-45.jpg"
+  },
+  {
+    "number": 46,
+    "type": "single",
+    "prompt": "在搭建私人知识库问答Bot时，以下哪种数据结构不被支持?AQA问答对BJSON结构化数组",
+    "options": [
+      {
+        "label": "C",
+        "text": "原文存储DXML结构未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "现有的RAG方案主要针对文本、QA和结构化JSON，XML在通用的知识库分片检索中较少被提及作为原生优化格式。",
+    "image": "/questions/single-46.jpg"
+  },
+  {
+    "number": 49,
+    "type": "single",
+    "prompt": "智能体 (Agent)xe一个更广泛的概念，指的是可以在环境中ral主感自pam eS知、决策并采取行动去实现特定目标的实体。智能体可以是以下哪些形式?",
+    "options": [
+      {
+        "label": "A",
+        "text": "软件程序"
+      },
+      {
+        "label": "B",
+        "text": "独立实体"
+      },
+      {
+        "label": "C",
+        "text": "机器人"
+      },
+      {
+        "label": "D",
+        "text": "以上都是隐藏答案未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Agent既可以是纯虚拟的算法程序，也可以是具备物理实体的机器人，其共性在性。",
+    "image": "/questions/single-49.jpg"
+  },
+  {
+    "number": 52,
+    "type": "single",
+    "prompt": "LLM (大语it模型) 作为 Al Agent 的核心控制器，主要提升ral了Al Agent 的",
+    "options": [
+      {
+        "label": "A",
+        "text": "理解力"
+      },
+      {
+        "label": "B",
+        "text": "泛化能力"
+      },
+      {
+        "label": "C",
+        "text": "自然语言处理能力"
+      },
+      {
+        "label": "D",
+        "text": "以上都是隐藏答案未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "LLM为Agent提供了强大的语义理解、跨领域泛化和然语言交互基础。",
+    "image": "/questions/single-52.jpg"
+  },
+  {
+    "number": 53,
+    "type": "single",
+    "prompt": "Al Agent 的规划模块主要解决的问题是",
+    "options": [
+      {
+        "label": "A",
+        "text": "将复杂任务分解为更小的子任务"
+      },
+      {
+        "label": "B",
+        "text": "提升模型的推理能力"
+      },
+      {
+        "label": "C",
+        "text": "优化任务执行的效率"
+      },
+      {
+        "label": "D",
+        "text": "以上都是隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "规划 (Planning) 模块的核心价值是将一个宏大的模糊目标拆解为可操作的执行步骤。",
+    "image": "/questions/single-53.jpg"
+  },
+  {
+    "number": 55,
+    "type": "single",
+    "prompt": "Al Agent 的工具模块主要用于",
+    "options": [
+      {
+        "label": "A",
+        "text": "调用外部 API 获取额外信息"
+      },
+      {
+        "label": "B",
+        "text": "执行代码"
+      },
+      {
+        "label": "C",
+        "text": "搜索结果"
+      },
+      {
+        "label": "D",
+        "text": "以上都是未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "工具使(Tool Use) 允许Agent突破模型训练数据的限制，通过调用外部接口扩展能力边界。",
+    "image": "/questions/single-55.jpg"
+  },
+  {
+    "number": 56,
+    "type": "single",
+    "prompt": "Al Agent 的行动模块由以下哪个函数决定?",
+    "options": [
+      {
+        "label": "A",
+        "text": "策略 (Policy) 函数"
+      },
+      {
+        "label": "B",
+        "text": "反馈 (Feedback) BX"
+      },
+      {
+        "label": "C",
+        "text": "规划 (Planning) 函数"
+      },
+      {
+        "label": "D",
+        "text": "以上都不是未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "在强化学习和智能体理论中，策(Policy) 决定了智能体在特定状态下应采取何种动作。",
+    "image": "/questions/single-56.jpg"
+  },
+  {
+    "number": 58,
+    "type": "single",
+    "prompt": "Al Agent 的工作模式可以分为以下几种?",
+    "options": [
+      {
+        "label": "A",
+        "text": "单Agent"
+      },
+      {
+        "label": "B",
+        "text": "多Agent"
+      },
+      {
+        "label": "C",
+        "text": "混合Agent"
+      },
+      {
+        "label": "D",
+        "text": "以上都是未作答D"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据任务复杂度，可以由单一Agent完成，也可以由多个Agent协作或人机江昆合参与混合参与",
+    "image": "/questions/single-58.jpg"
+  },
+  {
+    "number": 62,
+    "type": "single",
+    "prompt": "Dify 平台支持以下哪些功能?ARAG 检索",
+    "options": [
+      {
+        "label": "B",
+        "text": "模型管理"
+      },
+      {
+        "label": "C",
+        "text": "工作流编排"
+      },
+      {
+        "label": "D",
+        "text": "以上都是未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Dify是一个全栈Agent开发平台，涵盖了从数据接入(RAG) 到远辑编排及模型调优的全流程。",
+    "image": "/questions/single-62.jpg"
+  },
+  {
+    "number": 65,
+    "type": "single",
+    "prompt": "在创建智能体应用时，以下哪项不是知识库导入过程中需要处ral理的内容?",
+    "options": [
+      {
+        "label": "A",
+        "text": "表头行定位"
+      },
+      {
+        "label": "B",
+        "text": "数据起始行设置"
+      },
+      {
+        "label": "C",
+        "text": "数据类型调整"
+      },
+      {
+        "label": "D",
+        "text": "界面颜色配置未作答"
+      }
+    ],
+    "answer": "D",
+    "explanation": "知识库导入侧重数据结构的清洗和解析，界面颜色属于UI范畴，与数据导入无关。",
+    "image": "/questions/single-65.jpg"
+  },
+  {
+    "number": 66,
+    "type": "single",
+    "prompt": "Coze智能体应用的创建主要依赖于以下哪种数据库?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库"
+      },
+      {
+        "label": "B",
+        "text": "传统关系型数据库"
+      },
+      {
+        "label": "C",
+        "text": "分布式数据库"
+      },
+      {
+        "label": "D",
+        "text": "图数据库隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "这里的知识库特指封装了向量检索能力的非结构化数据集合，是Agent回答问题的核心依据。",
+    "image": "/questions/single-66.jpg"
+  },
+  {
+    "number": 67,
+    "type": "single",
+    "prompt": "在Coze原生基础逻辑节点中，不包括以下哪项?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库检索"
+      },
+      {
+        "label": "B",
+        "text": "代码节点"
+      },
+      {
+        "label": "C",
+        "text": "绘图节点"
+      },
+      {
+        "label": "D",
+        "text": "插件节点未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "绘图功能需通过调“插件节点\"实现，而非独立遇辑节点Fo",
+    "image": "/questions/single-67.jpg"
+  },
+  {
+    "number": 68,
+    "type": "single",
+    "prompt": "在知识库检索节点中，输出的结果通常是什么形式的?",
+    "options": [
+      {
+        "label": "A",
+        "text": "圆形图BSQL碍询语句CJSON数据DHTML 页面未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "知识库检索后的数据通常以结构化的JSON格式输出，以便后续代码或模型节点解析。",
+    "image": "/questions/single-68.jpg"
+  },
+  {
+    "number": 69,
+    "type": "single",
+    "prompt": "在用饼图展示数据时，Aname和valueBJSON格式数据",
+    "options": [
+      {
+        "label": "C",
+        "text": "柱状图配置"
+      },
+      {
+        "label": "D",
+        "text": "图表标题未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "饼图插件的参数必须与饼图远辑相关，柱状图配置属于另一类图表类型的参数。",
+    "image": "/questions/single-69.jpg"
+  },
+  {
+    "number": 73,
+    "type": "single",
+    "prompt": "在使用大模型优化工作流时，大模型需要接收几个参数?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1个"
+      },
+      {
+        "label": "B",
+        "text": "2个"
+      },
+      {
+        "label": "C",
+        "text": "3个"
+      },
+      {
+        "label": "D",
+        "text": "4个未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "通常至少需要“提示词\"和\"用户输入\"两个核心输入参数来实现特定的逻辑优化。",
+    "image": "/questions/single-73.jpg"
+  },
+  {
+    "number": 74,
+    "type": "single",
+    "prompt": "最终生成的饼图数据格式是什么?ACSVBJSONCXMLDYAML隐藏答案未作答",
+    "options": [],
+    "answer": "B",
+    "explanation": "JSON是现代Web应用及大模型交互中最通用、最易于程序解析的结构化数据格式。",
+    "image": "/questions/single-74.jpg"
+  },
+  {
+    "number": 76,
+    "type": "single",
+    "prompt": "在课程中提到的理赔数据分析需求中，现以下哪种查询?",
+    "options": [
+      {
+        "label": "A",
+        "text": "查询数据库表结构"
+      },
+      {
+        "label": "B",
+        "text": "查询某个月份的定损总金额"
+      },
+      {
+        "label": "C",
+        "text": "查询某车牌号对应的报案号"
+      },
+      {
+        "label": "D",
+        "text": "查询数据库索引使用情况未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Agent在具体业务场景中，主要处理如“根据车牌找报案号\"这类具体的业务查询请求。",
+    "image": "/questions/single-76.jpg"
+  },
+  {
+    "number": 77,
+    "type": "single",
+    "prompt": "在课程中提到的智能体应用开发流程中，最先进行的步骤是以下哪项?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库检索"
+      },
+      {
+        "label": "B",
+        "text": "用户界面设计"
+      },
+      {
+        "label": "C",
+        "text": "工作流编排"
+      },
+      {
+        "label": "D",
+        "text": "插件配置隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "好的开发流程通常“以始为终\"，先明确用户交互界面和预期效果，再配置底层逻辑。",
+    "image": "/questions/single-77.jpg"
+  },
+  {
+    "number": 78,
+    "type": "single",
+    "prompt": "在课程中提到的智能体应用中，以下哪项不是工作流节点的类ral型?",
+    "options": [
+      {
+        "label": "A",
+        "text": "开始节点"
+      },
+      {
+        "label": "B",
+        "text": "知识库节点"
+      },
+      {
+        "label": "C",
+        "text": "视频播放节点"
+      },
+      {
+        "label": "D",
+        "text": "结束节点未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "视频播放通常是前端展示功能或特定插件能力，而非工作流远辑编排中的标准逻辑节点。",
+    "image": "/questions/single-78.jpg"
+  },
+  {
+    "number": 79,
+    "type": "single",
+    "prompt": "在智能体应用中，哪一步骤能将用户自然语言需求自动转化为SQL语句并执行?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库检索"
+      },
+      {
+        "label": "B",
+        "text": "代码节点处理"
+      },
+      {
+        "label": "C",
+        "text": "大模型自动生成"
+      },
+      {
+        "label": "D",
+        "text": "用户界面展示隐藏答案未作答"
+      }
+    ],
+    "answer": "C",
+    "explanation": "这一功能被称为Text-to-SQL，是大语言模型 (LLM)的核心能力之一。",
+    "image": "/questions/single-79.jpg"
+  },
+  {
+    "number": 81,
+    "type": "multiple",
+    "prompt": "以下哪些技术属于智能体的功能范畴?",
+    "options": [
+      {
+        "label": "A",
+        "text": "短视频文案生成"
+      },
+      {
+        "label": "B",
+        "text": "文档翻译与校对"
+      },
+      {
+        "label": "C",
+        "text": "股a===信息查询"
+      },
+      {
+        "label": "D",
+        "text": "文生图与图生文未作答"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "翻译校对属于基础工具，而文案生成、实时查询、多模态生成则更符合智能体完成复杂任务的特征。",
+    "image": "/questions/multiple-81.jpg"
+  },
+  {
+    "number": 82,
+    "type": "multiple",
+    "prompt": "智能客服系统的工作流配置可能包含以下哪些步骤?",
+    "options": [
+      {
+        "label": "A",
+        "text": "用户界面设计与优化"
+      },
+      {
+        "label": "B",
+        "text": "工作流节点划分与流程定义"
+      },
+      {
+        "label": "C",
+        "text": "整体远辑架构设计"
+      },
+      {
+        "label": "D",
+        "text": "后端服务器配置未作答"
+      }
+    ],
+    "answer": "BC",
+    "explanation": "工作流配置的核心在于逻辑流转 (节点划分) 和顶层设计，UI和服务器配置属于其实现层。",
+    "image": "/questions/multiple-82.jpg"
+  },
+  {
+    "number": 83,
+    "type": "multiple",
+    "prompt": "AutoGen的多智能体协作功能有哪些应用场景?",
+    "options": [
+      {
+        "label": "A",
+        "text": "多智能体任务分解与协作BAPI集成与技能扩展"
+      },
+      {
+        "label": "C",
+        "text": "复杂任务的分配与执行"
+      },
+      {
+        "label": "D",
+        "text": "当前业务流程的自动化未作答"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "AutoGen强调的是Agent间的互动 (协作、分解、执行) 及业务NWIETE A,rayEle技能扩展是其基础支持。",
+    "image": "/questions/multiple-83.jpg"
+  },
+  {
+    "number": 84,
+    "type": "multiple",
+    "prompt": "以下哪些功能属于DB-GPT的应用范围?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Excel表数据分析对话"
+      },
+      {
+        "label": "B",
+        "text": "数据库查询与统计"
+      },
+      {
+        "label": "C",
+        "text": "图像生成与处理"
+      },
+      {
+        "label": "D",
+        "text": "本地知识库优化隐藏答案未作答"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "DB-GPT核心聚焦于结构化数据 (Excel/DB) 的分析与对话，图像生成非其专长。",
+    "image": "/questions/multiple-84.jpg"
+  },
+  {
+    "number": 85,
+    "type": "multiple",
+    "prompt": "商用大模型优化可Bey及哪些技术操作?AGPU服务器部署",
+    "options": [
+      {
+        "label": "B",
+        "text": "模型微调与导出"
+      },
+      {
+        "label": "C",
+        "text": "数据库直接操作"
+      },
+      {
+        "label": "D",
+        "text": "在线表格集成与优化隐藏答案未作答"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "针对大模型本身的优化，主要指算力部署 (GPU) 和算法优化 (his), ，而非业务数据的直接操作。",
+    "image": "/questions/multiple-85.jpg"
+  },
+  {
+    "number": 86,
+    "type": "multiple",
+    "prompt": "在课程中提到的智能体集成外部工具包括哪些功能?",
+    "options": [
+      {
+        "label": "A",
+        "text": "图片转文字"
+      },
+      {
+        "label": "B",
+        "text": "文生图"
+      },
+      {
+        "label": "C",
+        "text": "股票信息查询"
+      },
+      {
+        "label": "D",
+        "text": "回复邮件与短信未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "智能体可以通过插件 (Plugins) 或工具 (Tools)焦成视觉处理、实时检索及自动化办公能力。",
+    "image": "/questions/multiple-86.jpg"
+  },
+  {
+    "number": 87,
+    "type": "multiple",
+    "prompt": "本地大模型的部署方式可能包括以下哪些步骤?",
+    "options": [
+      {
+        "label": "A",
+        "text": "手工下载并导入模型"
+      },
+      {
+        "label": "B",
+        "text": "接入本地部署大模型CRAG技能添加"
+      },
+      {
+        "label": "D",
+        "text": "微调模型参数隐藏答案未作答"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "本地部署流程涵盖了从模型获取到集成及功能增强(RAG) ，微调通常作为更高阶的独立优化环节。",
+    "image": "/questions/multiple-87.jpg"
+  },
+  {
+    "number": 88,
+    "type": "multiple",
+    "prompt": "FastGPT的ca)yeah应用能力有哪些?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库配置与管理"
+      },
+      {
+        "label": "B",
+        "text": "智能客服功能"
+      },
+      {
+        "label": "C",
+        "text": "私有部署支持"
+      },
+      {
+        "label": "D",
+        "text": "与本地大模型集成未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "FastGPT提供了从知识库到客服形态的全栈私有化部署方案兼容各类源模型。",
+    "image": "/questions/multiple-88.jpg"
+  },
+  {
+    "number": 89,
+    "type": "multiple",
+    "prompt": "在 Python 中，以下哪些数据类型ASSeA[三|变的?()AFH (str)",
+    "options": [
+      {
+        "label": "B",
+        "text": "列表 (list)"
+      },
+      {
+        "label": "C",
+        "text": "元组 (tuple)"
+      },
+      {
+        "label": "D",
+        "text": "字典 (dict)未作答"
+      }
+    ],
+    "answer": "BD",
+    "explanation": "列表和字典允许在不改变内存地址的情况下修改内容; 字符串和元组一旦创建则不可更改。",
+    "image": "/questions/multiple-89.jpg"
+  },
+  {
+    "number": 90,
+    "type": "multiple",
+    "prompt": "以下哪些是 Python 中常用的循环结构?Afor 循环Bwhile 循环Cdo...while 循环Dswitch 循环未作答",
+    "options": [],
+    "answer": "AB",
+    "explanation": "Python原生只支持for和while，不具备C语言风格的do...while和原生的switch (3.10后有match) 。",
+    "image": "/questions/multiple-90.jpg"
+  },
+  {
+    "number": 91,
+    "type": "multiple",
+    "prompt": "Python &ARRA",
+    "options": [
+      {
+        "label": "B",
+        "text": "参数列表"
+      },
+      {
+        "label": "C",
+        "text": "返回值DRE未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "个完整的函数由关键字def、名称、输入参数、内部238 (体) 和输出 〈返回值) 构成。",
+    "image": "/questions/multiple-91.jpg"
+  },
+  {
+    "number": 92,
+    "type": "multiple",
+    "prompt": "在异常处理中，以下哪些是 Python 中常用的用于处理异常的语句?Atry...exceptBtry...finallyCthrowDcatch未作答",
+    "options": [],
+    "answer": "AB",
+    "explanation": "Python使try进行党试，except捕获异常，finally执全请a=#2; throw和catch是其他语言的关键字。",
+    "image": "/questions/multiple-92.jpg"
+  },
+  {
+    "number": 93,
+    "type": "multiple",
+    "prompt": "在扣子空ela),以下哪些场景适合使用专家模式?",
+    "options": [
+      {
+        "label": "A",
+        "text": "处理复杂且专业性强的任如生成高质量海报"
+      },
+      {
+        "label": "B",
+        "text": "进行Ha简单的日常任务，如文件浏览"
+      },
+      {
+        "label": "C",
+        "text": "需要调用特定领域知识的任务，如旅攻略生成"
+      },
+      {
+        "label": "D",
+        "text": "随机任无需特定领域知识未作答AC确答案"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "专家模式是为了通过精细化的控制(Prompt/Workflow) 解决具有专业壁垒的问",
+    "image": "/questions/multiple-93.jpg"
+  },
+  {
+    "number": 99,
+    "type": "multiple",
+    "prompt": "在Coze中创建智能体时需要填写哪些人=o)aw!",
+    "options": [
+      {
+        "label": "A",
+        "text": "智能体名称BEBE AIDRE TTA"
+      },
+      {
+        "label": "C",
+        "text": "工作空间选择"
+      },
+      {
+        "label": "D",
+        "text": "智能体图标未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "虽然部分可选，但在完整的创建流程中，这些人言息共Ars同构成了一个可识别的智能体画像。",
+    "image": "/questions/multiple-99.jpg"
+  },
+  {
+    "number": 100,
+    "type": "multiple",
+    "prompt": "Coze智能体的提示词设置包括哪些内容?",
+    "options": [
+      {
+        "label": "A",
+        "text": "人物设定"
+      },
+      {
+        "label": "B",
+        "text": "功能和流程描述"
+      },
+      {
+        "label": "C",
+        "text": "约束与限制"
+      },
+      {
+        "label": "D",
+        "text": "回复格式样例未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "系统Prompt通常包含身份定义 (Persona) 、aS(Instruction) 和少样本示例 (Few-shot) 。",
+    "image": "/questions/multiple-100.jpg"
+  },
+  {
+    "number": 101,
+    "type": "multiple",
+    "prompt": "以下哪些属于Coze平台支持的工作流节点功能?",
+    "options": [
+      {
+        "label": "A",
+        "text": "大语言模型"
+      },
+      {
+        "label": "B",
+        "text": "自定义代码"
+      },
+      {
+        "label": "C",
+        "text": "图像泻染DFE隐藏答案未作答"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "图像泻染目前多通过外部插件实现，而LLM、代码和判断遇辑是其内置的基础控制节点。",
+    "image": "/questions/multiple-101.jpg"
+  },
+  {
+    "number": 103,
+    "type": "multiple",
+    "prompt": "在文档提炼思维导图Bot'的案例中，最终生成的输出包括哪些ralAR?",
+    "options": [
+      {
+        "label": "A",
+        "text": "文本总结"
+      },
+      {
+        "label": "B",
+        "text": "思维导图图片"
+      },
+      {
+        "label": "C",
+        "text": "可编辑链接"
+      },
+      {
+        "label": "D",
+        "text": "视频文件未作答"
+      }
+    ],
+    "answer": "BC",
+    "explanation": "该特定Bot的7出物是可视化的图片以及供用户进一步调整的网页链接。",
+    "image": "/questions/multiple-103.jpg"
+  },
+  {
+    "number": 104,
+    "type": "multiple",
+    "prompt": "在趣味单词卡片Bot的案例中，最终生成的卡片包括以下哪些ralAR?ARM Bia]",
+    "options": [
+      {
+        "label": "B",
+        "text": "中文翻译"
+      },
+      {
+        "label": "C",
+        "text": "例句及其翻译"
+      },
+      {
+        "label": "D",
+        "text": "单词发音的MP3链接隐藏答案未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "为了达到良好的学习效果，单词卡片mm二要束合包sa aed维度的多媒体信息。",
+    "image": "/questions/multiple-104.jpg"
+  },
+  {
+    "number": 105,
+    "type": "multiple",
+    "prompt": "Al Agent 的主要模块包括哪些 () ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "规划"
+      },
+      {
+        "label": "B",
+        "text": "记忆"
+      },
+      {
+        "label": "C",
+        "text": "工具"
+      },
+      {
+        "label": "D",
+        "text": "行动未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "规划 (脑)记忆 (验)工具 (手) 和行动 GAT)构成了Agent的通用架构。",
+    "image": "/questions/multiple-105.jpg"
+  },
+  {
+    "number": 112,
+    "type": "multiple",
+    "prompt": "以下哪些是构建 Al Agent 的开发平台?",
+    "options": [
+      {
+        "label": "A",
+        "text": "文心智能体平台BEtinssth seeGLM 智能体CHIF Coze"
+      },
+      {
+        "label": "D",
+        "text": "AskXBOT未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "这些都是国内外主流的、提供Agent构建能力的商业或",
+    "image": "/questions/multiple-112.jpg"
+  },
+  {
+    "number": 113,
+    "type": "multiple",
+    "prompt": "在Coze平台中，创建智能体应用涉及哪些方面?",
+    "options": [
+      {
+        "label": "A",
+        "text": "对话流设计"
+      },
+      {
+        "label": "B",
+        "text": "知识库管理"
+      },
+      {
+        "label": "C",
+        "text": "工作流编排"
+      },
+      {
+        "label": "D",
+        "text": "插件使用隐藏答案未作答"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "对话流负SERSFIX互逻辑，知识库负责私有数据，工作流负责复杂业务闭环，插件则负责调用外部工具能四者共同构成Agent应用。",
+    "image": "/questions/multiple-113.jpg"
+  },
+  {
+    "number": 114,
+    "type": "multiple",
+    "prompt": "在智能体应用开发中，以下哪些步骤与知识库相关?",
+    "options": [
+      {
+        "label": "A",
+        "text": "知识库的创建"
+      },
+      {
+        "label": "B",
+        "text": "知识库数据的导入"
+      },
+      {
+        "label": "C",
+        "text": "知识库的检索"
+      },
+      {
+        "label": "D",
+        "text": "知识库的物理存储设计隐藏答案未作答"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "户在使Coze等平台时，主要负责业务层的数据准备和检索，底层存储设计由平台动完成。",
+    "image": "/questions/multiple-114.jpg"
+  },
+  {
+    "number": 115,
+    "type": "multiple",
+    "prompt": "在使用饼图插件时，需要提供哪些1a=息?",
+    "options": [
+      {
+        "label": "A",
+        "text": "数据数组"
+      },
+      {
+        "label": "B",
+        "text": "图表样式配置"
+      },
+      {
+        "label": "C",
+        "text": "图表标题"
+      },
+      {
+        "label": "D",
+        "text": "数据库连接信息隐藏答案未作答"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "插件通常通过标准的API接收结构化数据和样式参数，不直接连接数据库以保证安全性。",
+    "image": "/questions/multiple-115.jpg"
+  },
+  {
+    "number": 116,
+    "type": "multiple",
+    "prompt": "在智能体应用中，哪些技术可以优化动态需求响应?",
+    "options": [
+      {
+        "label": "A",
+        "text": "使用大模型自动生成SQL语句"
+      },
+      {
+        "label": "B",
+        "text": "动态调整工作流节点"
+      },
+      {
+        "label": "C",
+        "text": "灵活的用户界面设计"
+      },
+      {
+        "label": "D",
+        "text": "手动编写所有代码逻辑未作答"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "优化响应的关键在于减少硬编码，通过LLM的柔性理解和工作流的灵活流转来应对多变需求。",
+    "image": "/questions/multiple-116.jpg"
+  },
+  {
+    "number": 117,
+    "type": "multiple",
+    "prompt": "讲师提到的理赔数据分析需求包括哪些?",
+    "options": [
+      {
+        "label": "A",
+        "text": "查询某车牌号对应的报案号"
+      },
+      {
+        "label": "B",
+        "text": "统计某个月份的定损总金额"
+      },
+      {
+        "label": "C",
+        "text": "查询某业务线的年度定损金额"
+      },
+      {
+        "label": "D",
+        "text": "查询数据库的索引使用情况未作答"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "需求点聚焦具体的业务数据指标查询，而非数据库底层的运维信息。",
+    "image": "/questions/multiple-117.jpg"
+  },
+  {
+    "number": 118,
+    "type": "multiple",
+    "prompt": "在智能体应用开发流程中，以下哪些步骤是必需的?",
+    "options": [
+      {
+        "label": "A",
+        "text": "用户界面设计"
+      },
+      {
+        "label": "B",
+        "text": "工作流编排"
+      },
+      {
+        "label": "C",
+        "text": "知识库或数据库配置"
+      },
+      {
+        "label": "D",
+        "text": "手动部署服务器环境隐藏答案未作答"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "Coze等平台提供了全托管环境，用户无需手动管理服务器，重点在于远辑和业务数据的配置。",
+    "image": "/questions/multiple-118.jpg"
+  },
+  {
+    "number": 121,
+    "type": "boolean",
+    "prompt": "智能体是一个具有自主行为能力的软件实体。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "智能体最核心的特征即“自主性\"，能够基于目标和环境运行。",
+    "image": "/questions/boolean-121.jpg"
+  },
+  {
+    "number": 122,
+    "type": "boolean",
+    "prompt": "智能体技术可应用于短视频文案创作和公众号内容生成。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "这属于AIGC智能体最成熟的应用场景，即内容的理解a)动创作。",
+    "image": "/questions/boolean-122.jpg"
+  },
+  {
+    "number": 123,
+    "type": "boolean",
+    "prompt": "RAG技术通过检索知识库来提升生成内容的相关性。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "RAG (检索增强生成) 有效缓解了大模型的幻觉问f, FRESE S LAGE.",
+    "image": "/questions/boolean-123.jpg"
+  },
+  {
+    "number": 125,
+    "type": "boolean",
+    "prompt": "FastGPT可与Azure OpenAl及本地大模型集成。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "FastGPT具有良好的兼容性，支持通过API协议对接多种公有云及私有部署模型。",
+    "image": "/questions/boolean-125.jpg"
+  },
+  {
+    "number": 128,
+    "type": "boolean",
+    "prompt": "本地部署大模型必须使用GPU服务器。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "虽然GPU效率高，但随着优化技术 (如CPU推理、量化) ，在普通电脑CPU上也Ab、寺4二BEAT:小型大模型。",
+    "image": "/questions/boolean-128.jpg"
+  },
+  {
+    "number": 129,
+    "type": "boolean",
+    "prompt": "智能体可集成外部工具实现股票查询和外语翻译等功能。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "插件系统极大地扩展了LLM无法直接掌握的实时信息或特定功能处理能力。",
+    "image": "/questions/boolean-129.jpg"
+  },
+  {
+    "number": 131,
+    "type": "boolean",
+    "prompt": "智能客BES服工作流配置需定义用户交互远辑。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "交互逻辑决定了用户说A时智能体做什么说B时如何引导，是Agent的核心允辑。",
+    "image": "/questions/boolean-131.jpg"
+  },
+  {
+    "number": 132,
+    "type": "boolean",
+    "prompt": "外挂本地知识库有助于模型理解企业内部数据。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "预训练模型z和受有企业私有数据，必须通过外挂知识库进行实时补充。",
+    "image": "/questions/boolean-132.jpg"
+  },
+  {
+    "number": 133,
+    "type": "boolean",
+    "prompt": "AutoGen不支持多智能体协作，仅限单智能体任务。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "AutoGen的命名及定位核心就在于“多智能(Multi-Agent) 协作\"。",
+    "image": "/questions/boolean-133.jpg"
+  },
+  {
+    "number": 136,
+    "type": "boolean",
+    "prompt": "智BES服系统的工作原理完全依赖外部工具集成。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确BigTR隐藏答未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "核心依赖是大模型 〈脑)外部工具 (F)7\\7EBos4vals)扩展，非唯一依赖。",
+    "image": "/questions/boolean-136.jpg"
+  },
+  {
+    "number": 137,
+    "type": "boolean",
+    "prompt": "在 Python 中，列表 (list) 是一种可变的数据Ase o",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "列表支持append、Ppop等就地修改操作。",
+    "image": "/questions/boolean-137.jpg"
+  },
+  {
+    "number": 138,
+    "type": "boolean",
+    "prompt": "Python 的 for 循环只能用于遍历列表，不能用于遍历其他序a列类型数据。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误co未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Python的for循环可以遍历任何可迭代对象，如元FER?组、字符+Ao",
+    "image": "/questions/boolean-138.jpg"
+  },
+  {
+    "number": 139,
+    "type": "boolean",
+    "prompt": "定义 Python &函数时，必须包含参数列表。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "图数可以不带参数，只需保留括号即可，如deffunc():。",
+    "image": "/questions/boolean-139.jpg"
+  },
+  {
+    "number": 142,
+    "type": "boolean",
+    "prompt": "Python 中，元组 (tuple) 支持元素的修改和添加操作。ral",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确BigTR未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "元组是不可变序列，一旦创建无法修改其内容。",
+    "image": "/questions/boolean-142.jpg"
+  },
+  {
+    "number": 143,
+    "type": "boolean",
+    "prompt": "字典 (dict) 在 Python 中用于存储多个键值对，可通过键快速访问对应的值。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "字典通过哈希映射实现高效查询，是核心数据结构之一°",
+    "image": "/questions/boolean-143.jpg"
+  },
+  {
+    "number": 146,
+    "type": "boolean",
+    "prompt": "Python 中的字符串 (str) 是不可变的序列类型数据。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "(ERRAe cha中实际上是在内存中创建了一个新的字十中Ac中对象。",
+    "image": "/questions/boolean-146.jpg"
+  },
+  {
+    "number": 147,
+    "type": "boolean",
+    "prompt": "while 循环在 Python 中而女可杠明确#已号BAL 1(INR, TALI限循环。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "while是条件循环，只要条件为True即可无限运行for通常才用于指定次数或范围。",
+    "image": "/questions/boolean-147.jpg"
+  },
+  {
+    "number": 149,
+    "type": "boolean",
+    "prompt": "Python 的函数必须有返回值。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "图数可以不显式返回，此时默认返回None。",
+    "image": "/questions/boolean-149.jpg"
+  },
+  {
+    "number": 151,
+    "type": "boolean",
+    "prompt": "在扣子空间中，专家模式适用于所有类型的任务。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "也的13)任务使通模式更快捷，专家模式主要针对复ZRcag高定制化需求。",
+    "image": "/questions/boolean-151.jpg"
+  },
+  {
+    "number": 152,
+    "type": "boolean",
+    "prompt": "Python 中，集合 (set) 中的元素是有序且可重复的。ral",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "eA7S AA序且元素唯一的 (去重) 。",
+    "image": "/questions/boolean-152.jpg"
+  },
+  {
+    "number": 154,
+    "type": "boolean",
+    "prompt": "Coze平台的国内版支持GPT-4和GPT-3.5等大模型。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "国内版主要支持豆包大模型，GPT系列模型通常仅在国际版中提供。",
+    "image": "/questions/boolean-154.jpg"
+  },
+  {
+    "number": 156,
+    "type": "boolean",
+    "prompt": "Coze平台的工作流节点不支持自定义代码功能。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Coze提供“代码节点\"，支持编写Python或Node.js来处理复杂逮辑。",
+    "image": "/questions/boolean-156.jpg"
+  },
+  {
+    "number": 161,
+    "type": "boolean",
+    "prompt": "在趣味单词卡片Bot中，生成的卡片不包含单词发音的MP3链ral接。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答B"
+      }
+    ],
+    "answer": "A",
+    "explanation": "现代单词助手通常会调用TTS (语音=}) 插件提供发音链接。",
+    "image": "/questions/boolean-161.jpg"
+  },
+  {
+    "number": 165,
+    "type": "boolean",
+    "prompt": "私人知识库问答Bot支持将内容以JSON结构化数组的形式存ral储。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "结构化存储有助于模型更精准地解析多维度信息。",
+    "image": "/questions/boolean-165.jpg"
+  },
+  {
+    "number": 167,
+    "type": "boolean",
+    "prompt": "在Coze中，工作流的执行和调试过程无法被查看。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Coze拥有完善的可视化调试面板，可以实时观察节点流转和参数变化。",
+    "image": "/questions/boolean-167.jpg"
+  },
+  {
+    "number": 172,
+    "type": "boolean",
+    "prompt": "Al Agent 的行动模块由反馈机制直接决定。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "行动策略函数决定，馈机制是用来优化策略的，不直接产生当前的动作。",
+    "image": "/questions/boolean-172.jpg"
+  },
+  {
+    "number": 174,
+    "type": "boolean",
+    "prompt": "Al Agent 的工具模块可以调用外部 API 获取额外信息。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "这是Agent打破模型内部预训练时空限制的关键。",
+    "image": "/questions/boolean-174.jpg"
+  },
+  {
+    "number": 179,
+    "type": "boolean",
+    "prompt": "Dify 平台支持 RAG 检索和工作流编排。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确BigTR隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Dify通过这两个功能实现了从静态知识问答到动态任务处理的闭环。",
+    "image": "/questions/boolean-179.jpg"
+  },
+  {
+    "number": 184,
+    "type": "boolean",
+    "prompt": "Al Agent 的行动模块与反馈机制无关。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "行动的ykAO AR ZS形成反馈，馈直接驱动Agent的学习和策略调整。",
+    "image": "/questions/boolean-184.jpg"
+  },
+  {
+    "number": 185,
+    "type": "boolean",
+    "prompt": "FEABAIA, ARERR RAL ERIS Re ICASQLral进行数据查询",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "知识库检索依赖的是向量相似度匹配 (RAG)而将自然语言转化为SQL属于大模型节点或插件节点的Text-to-SQL和能力，两者技术原理不同",
+    "image": "/questions/boolean-185.jpg"
+  },
+  {
+    "number": 187,
+    "type": "boolean",
+    "prompt": "智能体应用的用户界面设计可以使用H5和人小程序两种方式。ral",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答A"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Agent应用作为后端服务，可以适配多种前端载体进行展示。",
+    "image": "/questions/boolean-187.jpg"
+  },
+  {
+    "number": 188,
+    "type": "boolean",
+    "prompt": "在使用饼图插件时，需要提供JSON格式的数据。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "JSON是传递图表结构和数值的首选数据标准。",
+    "image": "/questions/boolean-188.jpg"
+  },
+  {
+    "number": 189,
+    "type": "boolean",
+    "prompt": "Coze工作流中不需要进行变量赋值操作。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "变量赋值是工作流各节点之间进行信息传递的基础。",
+    "image": "/questions/boolean-189.jpg"
+  },
+  {
+    "number": 190,
+    "type": "boolean",
+    "prompt": "在智能体应用开发中，需求的动态响应主要依赖于页面的固定ral设计。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "动态响应依赖于后端LLM的实时规划和工作流的条件分支选择。",
+    "image": "/questions/boolean-190.jpg"
+  },
+  {
+    "number": 192,
+    "type": "boolean",
+    "prompt": "在智全外体应用中，用户输入的内容会直接传递到大模型中ral处理",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答确答案"
+      }
+    ],
+    "answer": "A",
+    "explanation": "户的Prompt是模型理解任务的起点。",
+    "image": "/questions/boolean-192.jpg"
+  },
+  {
+    "number": 193,
+    "type": "boolean",
+    "prompt": "在智能体应用中，工作流节点的类型包括开始节点、知识库节ral点和结束节点。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "这些构成了工作流从输入、逻辑处理到输出的基本生命周期。",
+    "image": "/questions/boolean-193.jpg"
+  },
+  {
+    "number": 195,
+    "type": "boolean",
+    "prompt": "在智能体应用中，插件节点用于实现数据可视化功能。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确BigTR答案隐aa未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "",
+    "image": "/questions/boolean-195.jpg"
+  },
+  {
+    "number": 196,
+    "type": "boolean",
+    "prompt": "在智能体应用中，代码节点主要用于解析和整理知识库检索的ral结果。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "代码节点提供了LLM力所不及的精确数学计算和结构化数据重组能力。",
+    "image": "/questions/boolean-196.jpg"
+  },
+  {
+    "number": 197,
+    "type": "boolean",
+    "prompt": "在智能体应用中，大模型可以自动将自然语it需求转化为SQL语句。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "这是LLM展现出的极高的代码生成与逻辑转换能力。",
+    "image": "/questions/boolean-197.jpg"
+  },
+  {
+    "number": 198,
+    "type": "boolean",
+    "prompt": "在智能体应用开发中，用户界面设计Fete I程的最后一步。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误隐藏答案未作答B"
+      }
+    ],
+    "answer": "B",
+    "explanation": "界面设计往往应在需求明确后尽介入，以便明确交互边界。",
+    "image": "/questions/boolean-198.jpg"
+  },
+  {
+    "number": 199,
+    "type": "boolean",
+    "prompt": "在智能体应用中，知识库可以自动关联多张表进行复杂查询。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "B",
+    "explanation": "知识库主要处理非结构化文档。若需进行多表关联的复杂结构化查询，应使用数据库插件或编写代码节点调用SQL来实现。",
+    "image": "/questions/boolean-199.jpg"
+  },
+  {
+    "number": 200,
+    "type": "boolean",
+    "prompt": "在智能体应用开发中，代码节点可以用于处理和转换知识库检索的结果。",
+    "options": [
+      {
+        "label": "A",
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误未作答"
+      }
+    ],
+    "answer": "A",
+    "explanation": "通过代码介入可以确保数据处理的确定性和业务逻辑",
+    "image": "/questions/boolean-200.jpg"
+  },
+  {
+    "number": 201,
+    "type": "short",
+    "prompt": "请简述本地大模型部署的关键步骤及注意事项。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-201.jpg"
+  },
+  {
+    "number": 202,
+    "type": "short",
+    "prompt": "请简述如何配置并使用FastGPT知识库。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-202.jpg"
+  },
+  {
+    "number": 203,
+    "type": "short",
+    "prompt": "请简述图像生成节点的使用技巧。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-203.jpg"
+  },
+  {
+    "number": 204,
+    "type": "short",
+    "prompt": "请简述循环节点的使用流程。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-204.jpg"
+  },
+  {
+    "number": 205,
+    "type": "short",
+    "prompt": "118)puis术如何在Coze平台中搭建一个智能换脸Bot。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-205.jpg"
+  },
+  {
+    "number": 206,
+    "type": "short",
+    "prompt": "请简述如何在Coze中搭建一个私人知识库问答Bot。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-206.jpg"
+  },
+  {
+    "number": 207,
+    "type": "short",
+    "prompt": "如何通过智能客服系统提升客户服务质量和效率?",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-207.jpg"
+  },
+  {
+    "number": 208,
+    "type": "short",
+    "prompt": "在 AIGC 图文图像短视频生成中，如何实现图片的高质量生ral成?",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-208.jpg"
+  },
+  {
+    "number": 209,
+    "type": "short",
+    "prompt": "请简述使用Coze平台创建智能体应用的主要步骤。",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-209.jpg"
+  },
+  {
+    "number": 210,
+    "type": "short",
+    "prompt": "请简述在智能ral体应用中，如何实现从用户输入到数据展示的完整流程 °华安",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-210.jpg"
+  },
+  {
+    "number": 211,
+    "type": "short",
+    "prompt": "某大型连锁零售企业计划构建一款“门店智能运营助手\" 企业ral级智能体，核心定位是“赋能门店店长及一线员工，解决日常运营门店运营核心痛点:中的高频问题，提升门店人效与服务质量\"© 员工需记忆海量运营规则 (如商品陈列标准、促销活动细则、Lu 4tt -会员权益政策) ，新人上手慢，易山刘，@ 库存查询、补货请、售后处理等流程需切换多个系统 (OA、ERP、会员系统) ，操作繁琐上且耗时; (@) 店长无法实时获取门店运营数据 (如销售额、客流、热销商品) 的汇TS)M4 ZSi, TRERRARA TYrau企业现有资源: (CD 基于 Llama 3 70B 的开源大模型 (支持微调、AR =Aaot构化规则，涵盖函数调用) ; (@) 门店运营知识库 (含5 万+Aaa陈列、促销、Bo,售后等场景) ; @ 现有业务系oaZuAPI 接口(OA Bit, ERP 库存查询、会品信自查Boao询、销售数据统计) ; @O技术支持团队 (1 名大模型算法工程师、2 名后端开发、1 名数据工程师) ; (G) 10 家试点门店 (覆盖超市、生鲜、百货 3 类业态)可用于测试验证。 核心约束: (人) 3 个月内完成试点版智能体上线(对接 10 家试点门店) ; (@) 优先基于现有开源大模型优化，不支持定制化大模型开发; (3) 智能体需适配门店员工的操作习惯 (文化水平不一，操作流程需极简) ; © 严格遵守《数据安全法》，门店销售数据、会员信自BUA等敏感数据茶止外泄，仅支持内部授权访日问。问RS分析该智能体试点上线前需重点规避的 3 类核心风险gai=-ALw具体应对方ce(技术风险、业务适配风险、数据安全风险) ，并条",
+    "options": [],
+    "answer": "",
+    "explanation": "暂无标准答案，请按要点自行作答后复盘。",
+    "image": "/questions/short-211.jpg"
+  }
+]
