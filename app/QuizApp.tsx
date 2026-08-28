@@ -30,12 +30,14 @@ export default function QuizApp() {
   const [saved, setSaved] = useState<Saved>({ done: [], correct: [], starred: [], answers: {} });
   const [ready, setReady] = useState(false);
   const [exporting, setExporting] = useState(false);
+  const [zoomed, setZoomed] = useState(false);
 
   useEffect(() => {
     try { const old = JSON.parse(localStorage.getItem("ai-builder-progress") || "null"); setSaved(old ? { ...old, answers: old.answers || {} } : { done: [], correct: [], starred: [], answers: {} }); } catch {}
     setReady(true);
   }, []);
   useEffect(() => { if (ready) localStorage.setItem("ai-builder-progress", JSON.stringify(saved)); }, [saved, ready]);
+  useEffect(() => { document.body.style.overflow = zoomed ? "hidden" : ""; return () => { document.body.style.overflow = ""; }; }, [zoomed]);
 
   const pool = useMemo(() => kind === "all" ? questions : questions.filter(q => q.type === kind), [kind]);
   const q = pool[index] || pool[0];
@@ -44,7 +46,7 @@ export default function QuizApp() {
   const pct = Math.round((saved.done.length / questions.length) * 100);
   const wrongQuestions = questions.filter(item => item.type !== "short" && saved.done.includes(item.number) && !saved.correct.includes(item.number));
 
-  function resetQuestion(next: number) { setIndex(next); setSelected([]); setDraft(""); setRevealed(false); window.scrollTo({ top: 0, behavior: "smooth" }); }
+  function resetQuestion(next: number) { setIndex(next); setSelected([]); setDraft(""); setRevealed(false); setZoomed(false); window.scrollTo({ top: 0, behavior: "smooth" }); }
   function choose(label: string) {
     if (revealed || isShort) return;
     if (q.type === "multiple") setSelected(v => v.includes(label) ? v.filter(x => x !== label) : [...v, label]);
@@ -93,7 +95,8 @@ export default function QuizApp() {
 
           <article className="question-card">
             <div className="question-head"><div><span className={`type-pill ${q.type}`}>{labels[q.type]}</span><span className="question-no">原题 #{q.number} · 本组 {index + 1}/{pool.length}</span></div><button className={`star ${saved.starred.includes(q.number) ? "on" : ""}`} onClick={toggleStar} aria-label="收藏题目">{saved.starred.includes(q.number) ? "★" : "☆"}</button></div>
-            <div className="source-shot"><img src={assetPath(q.image)} alt={`原题 ${q.number} 的题干与选项`} /></div>
+            <div className="mobile-read-hint">↔ 左右滑动查看 · 点击图片全屏放大</div>
+            <button className="source-shot" onClick={() => setZoomed(true)} aria-label="全屏放大题目"><img src={assetPath(q.image)} alt={`原题 ${q.number} 的题干与选项`} /></button>
 
             {isShort ? <textarea value={draft} onChange={e => setDraft(e.target.value)} disabled={revealed} placeholder="在这里写下你的答题要点……" aria-label="简答题答案" /> : <div className="answer-grid">
               {letters.slice(0, q.type === "boolean" ? 2 : 4).map(letter => {
@@ -112,6 +115,10 @@ export default function QuizApp() {
           </article>
         </section>
       </div>
+      {zoomed && <div className="zoom-modal" role="dialog" aria-modal="true" aria-label="题目大图" onClick={() => setZoomed(false)}>
+        <button className="zoom-close" onClick={() => setZoomed(false)} aria-label="关闭大图">×</button>
+        <div className="zoom-scroll" onClick={event => event.stopPropagation()}><img src={assetPath(q.image)} alt={`原题 ${q.number} 大图`} /></div>
+      </div>}
       <p className="page-note">题目来源：AI 构建师课程练习题库 · 学习进度仅保存在你的浏览器中</p>
     </main>
   );
