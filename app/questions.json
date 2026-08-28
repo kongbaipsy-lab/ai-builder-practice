@@ -2,7 +2,7 @@
   {
     "number": 1,
     "type": "single",
-    "prompt": "“Agent\"在课程中指的是什么?",
+    "prompt": "'“Agent\"在课程中指的是什么?",
     "options": [
       {
         "label": "A",
@@ -18,7 +18,7 @@
       },
       {
         "label": "D",
-        "text": "人工编写的代码脚本隐藏答案未作答"
+        "text": "人工编写的代码脚本"
       }
     ],
     "answer": "B",
@@ -28,7 +28,7 @@
   {
     "number": 2,
     "type": "single",
-    "prompt": "以下哪项不属于人工智能的发展阶段?",
+    "prompt": "以下哪项不属于人工智能的发展阶段? {",
     "options": [
       {
         "label": "A",
@@ -44,7 +44,7 @@
       },
       {
         "label": "D",
-        "text": "数据挖掘阶段隐藏答案未作答"
+        "text": "数据挖掘阶段"
       }
     ],
     "answer": "D",
@@ -54,7 +54,7 @@
   {
     "number": 4,
     "type": "single",
-    "prompt": "AutoGen的核心功能不包括以下哪项?",
+    "prompt": "AutoGen的核心功能不包括以下哪项？",
     "options": [
       {
         "label": "A",
@@ -70,7 +70,7 @@
       },
       {
         "label": "D",
-        "text": "手工下载模型未作答"
+        "text": "手工下载模型"
       }
     ],
     "answer": "D",
@@ -96,7 +96,7 @@
       },
       {
         "label": "D",
-        "text": "集成在线表格未作答"
+        "text": "集成在线表格"
       }
     ],
     "answer": "C",
@@ -106,19 +106,23 @@
   {
     "number": 6,
     "type": "single",
-    "prompt": "RAG的全称是什么?",
+    "prompt": "RAG的全称是什么？",
     "options": [
       {
         "label": "A",
-        "text": "Remote Agent Generator© BRetrieval-Augmented Generation"
+        "text": "Remote Agent Generator"
+      },
+      {
+        "label": "B",
+        "text": "Retrieval-Augmented Generation"
       },
       {
         "label": "C",
-        "text": "Rapid Al Growth"
+        "text": "Rapid AI Growth"
       },
       {
         "label": "D",
-        "text": "Reactive Al GatewayB"
+        "text": "Reactive AI Gateway"
       }
     ],
     "answer": "B",
@@ -128,19 +132,23 @@
   {
     "number": 7,
     "type": "single",
-    "prompt": "以下哪项技术并未在课程中提及作为智能体集成能力?",
+    "prompt": "以下哪项技术并未在课程中提及作为智能体集成能力? a",
     "options": [
       {
         "label": "A",
-        "text": "图生视频BTah十辫训别"
+        "text": "图生视频"
+      },
+      {
+        "label": "B",
+        "text": "语音识别"
       },
       {
         "label": "C",
-        "text": "股a===信息查询"
+        "text": "股票信息查询"
       },
       {
         "label": "D",
-        "text": "文生图隐藏答案未作答"
+        "text": "文生图"
       }
     ],
     "answer": "B",
@@ -150,8 +158,12 @@
   {
     "number": 8,
     "type": "single",
-    "prompt": "DB-GPT的核心功能中，以下哪项不是其应用?AEXxcel对话",
+    "prompt": "DB-GPT的核心功能中，以下哪项不是其应用？",
     "options": [
+      {
+        "label": "A",
+        "text": "Excel对话"
+      },
       {
         "label": "B",
         "text": "数据库对话"
@@ -162,7 +174,7 @@
       },
       {
         "label": "D",
-        "text": "统计图表生成未作答"
+        "text": "统计图表生成"
       }
     ],
     "answer": "C",
@@ -172,7 +184,7 @@
   {
     "number": 10,
     "type": "single",
-    "prompt": "\"FastGPT\"“中不支持的功Be是哪一个?",
+    "prompt": "\"FastGPT\"“中不支持的功能是哪一个? a",
     "options": [
       {
         "label": "A",
@@ -188,7 +200,7 @@
       },
       {
         "label": "D",
-        "text": "数据库管理ee te隐aa未作答"
+        "text": "数据库管理"
       }
     ],
     "answer": "D",
@@ -198,7 +210,7 @@
   {
     "number": 11,
     "type": "single",
-    "prompt": "以下哪项不是搭建智能客服系统时需要考虑的关键点?",
+    "prompt": "以下哪项不是搭建智能客服系统时需要考虑的关键点？",
     "options": [
       {
         "label": "A",
@@ -206,11 +218,15 @@
       },
       {
         "label": "B",
-        "text": "工作流配置@ c用户界面设计"
+        "text": "工作流配置"
+      },
+      {
+        "label": "C",
+        "text": "用户界面设计"
       },
       {
         "label": "D",
-        "text": "集成在线表格C"
+        "text": "集成在线表格"
       }
     ],
     "answer": "C",
@@ -220,7 +236,7 @@
   {
     "number": 12,
     "type": "single",
-    "prompt": "AutoGen的多智能体协作演示主要体现了什么能力?",
+    "prompt": "AutoGen的多智能体协作演示主要体现了什么能力？",
     "options": [
       {
         "label": "A",
@@ -236,7 +252,7 @@
       },
       {
         "label": "D",
-        "text": "独立运行无协作隐藏答案未作答"
+        "text": "独立运行无协作"
       }
     ],
     "answer": "B",
@@ -246,7 +262,7 @@
   {
     "number": 13,
     "type": "single",
-    "prompt": "课程中提到的“微调ChatGLM3\"属于什么操作?",
+    "prompt": "课程中提到的“微调ChatGLM3\"属于什么操作? f",
     "options": [
       {
         "label": "A",
@@ -262,7 +278,7 @@
       },
       {
         "label": "D",
-        "text": "数据可视化隐藏答案未作答C"
+        "text": "数据可视化"
       }
     ],
     "answer": "C",
@@ -288,7 +304,7 @@
       },
       {
         "label": "D",
-        "text": "提供纯文本支持未作答确答案B"
+        "text": "提供纯文本支持"
       }
     ],
     "answer": "B",
@@ -298,7 +314,7 @@
   {
     "number": 16,
     "type": "single",
-    "prompt": "商用大模型的部署中，GPU服务器的主要作用是",
+    "prompt": "商用大模型的部署中，GPU服务器的主要作用是？",
     "options": [
       {
         "label": "A",
@@ -314,7 +330,7 @@
       },
       {
         "label": "D",
-        "text": "加速模型的微调过程未作答"
+        "text": "加速模型的微调过程"
       }
     ],
     "answer": "B",
@@ -340,7 +356,7 @@
       },
       {
         "label": "D",
-        "text": "字典 (dict)隐藏答案未作答"
+        "text": "字典 (dict)"
       }
     ],
     "answer": "C",
@@ -350,8 +366,25 @@
   {
     "number": 18,
     "type": "single",
-    "prompt": "以下哪种循环结构在 Python 中适用于遍历序列?Awhile 循环Bfor 循环Cdo...while 循环Dswitch 循环未作答B",
-    "options": [],
+    "prompt": "以下哪种循环结构在 Python 中适用于遍历序列？",
+    "options": [
+      {
+        "label": "A",
+        "text": "while 循环"
+      },
+      {
+        "label": "B",
+        "text": "for 循环"
+      },
+      {
+        "label": "C",
+        "text": "do...while 循环"
+      },
+      {
+        "label": "D",
+        "text": "switch 循环"
+      }
+    ],
     "answer": "B",
     "explanation": "Python中for..in结构专门设计用遍历列表元组、字符串等ch Ae,peas从代器和序列对象。",
     "image": "/questions/single-18.jpg"
@@ -359,7 +392,7 @@
   {
     "number": 19,
     "type": "single",
-    "prompt": "在 Python 中，如何定义一个函数?",
+    "prompt": "在 Python 中，如何定义一个函数? a",
     "options": [
       {
         "label": "A",
@@ -375,7 +408,7 @@
       },
       {
         "label": "D",
-        "text": "使用 function 关键字未作答"
+        "text": "使用function 关键字"
       }
     ],
     "answer": "C",
@@ -385,8 +418,25 @@
   {
     "number": 20,
     "type": "single",
-    "prompt": "以下哪个是 Python 中用于异常处理的语句?Atry...exceptBtry...catchCtry...finallyDtry...else未作答",
-    "options": [],
+    "prompt": "以下哪个是 Python 中用于异常处理的语句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "try...except"
+      },
+      {
+        "label": "B",
+        "text": "try...catch"
+      },
+      {
+        "label": "C",
+        "text": "try...finally"
+      },
+      {
+        "label": "D",
+        "text": "try...else"
+      }
+    ],
     "answer": "A",
     "explanation": "Python的异常捕获关键字是try和except，不同于Java/C++的catch。",
     "image": "/questions/single-20.jpg"
@@ -394,7 +444,7 @@
   {
     "number": 25,
     "type": "single",
-    "prompt": "在制作高质量营销海报时，以下哪种工具被重点提及?",
+    "prompt": "在制作高质量营销海报时，以下哪种工具被重点提及？",
     "options": [
       {
         "label": "A",
@@ -402,11 +452,15 @@
       },
       {
         "label": "B",
-        "text": "PhotoshopClilustrator"
+        "text": "Photoshop"
+      },
+      {
+        "label": "C",
+        "text": "Illustrator"
       },
       {
         "label": "D",
-        "text": "Canva未作答"
+        "text": "Canva"
       }
     ],
     "answer": "A",
@@ -416,8 +470,25 @@
   {
     "number": 27,
     "type": "single",
-    "prompt": "在 Python 中，用于定义类的关键字是?AclassBstructCtypeDobject未作答",
-    "options": [],
+    "prompt": "在 Python 中，用于定义类的关键字是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "class"
+      },
+      {
+        "label": "B",
+        "text": "struct"
+      },
+      {
+        "label": "C",
+        "text": "type"
+      },
+      {
+        "label": "D",
+        "text": "object"
+      }
+    ],
     "answer": "A",
     "explanation": "Python使用标准面向对象关键字class来定义类。",
     "image": "/questions/single-27.jpg"
@@ -425,7 +496,7 @@
   {
     "number": 32,
     "type": "single",
-    "prompt": "在 Python 中，以下哪种数据类型常用于存储多个键值对?",
+    "prompt": "在 Python 中，以下哪种数据类型常用于存储多个键值对? a",
     "options": [
       {
         "label": "A",
@@ -441,7 +512,7 @@
       },
       {
         "label": "D",
-        "text": "集合 (set)未作答"
+        "text": "集合 (set)"
       }
     ],
     "answer": "C",
@@ -467,7 +538,7 @@
       },
       {
         "label": "D",
-        "text": "融合人脸与背景未作答"
+        "text": "融合人脸与背景"
       }
     ],
     "answer": "C",
@@ -477,7 +548,7 @@
   {
     "number": 34,
     "type": "single",
-    "prompt": "OpenAl CEO Sam Altman认为，智能体是实现以下哪一目标的载体?",
+    "prompt": "OpenAI CEO Sam AItman认为，智能体是实现以下哪一目标 的载体?",
     "options": [
       {
         "label": "A",
@@ -493,7 +564,7 @@
       },
       {
         "label": "D",
-        "text": "推动人工智能普及未作答"
+        "text": "推动人工智能普及"
       }
     ],
     "answer": "B",
@@ -503,7 +574,7 @@
   {
     "number": 35,
     "type": "single",
-    "prompt": "Al智能体的主要功能包括以下哪几个方面?",
+    "prompt": "AI智能体的主要功能包括以下哪几个方面？",
     "options": [
       {
         "label": "A",
@@ -511,7 +582,7 @@
       },
       {
         "label": "B",
-        "text": "提供语~5翻译和文档处理"
+        "text": "提供语言翻译和文档处理"
       },
       {
         "label": "C",
@@ -519,7 +590,7 @@
       },
       {
         "label": "D",
-        "text": "网络安全防护和数据加密隐藏答案未作答"
+        "text": "网络安全防护和数据加密"
       }
     ],
     "answer": "A",
@@ -529,15 +600,23 @@
   {
     "number": 36,
     "type": "single",
-    "prompt": "Coze平台的国内版主要支持以下哪个大模型?AGPT-4BGPT-3.5",
+    "prompt": "Coze平台的国内版主要支持以下哪个大模型？",
     "options": [
+      {
+        "label": "A",
+        "text": "GPT-4"
+      },
+      {
+        "label": "B",
+        "text": "GPT-3.5"
+      },
       {
         "label": "C",
         "text": "豆包大模型"
       },
       {
         "label": "D",
-        "text": "Claude未作答C"
+        "text": "Claude"
       }
     ],
     "answer": "C",
@@ -547,7 +626,7 @@
   {
     "number": 39,
     "type": "single",
-    "prompt": "在Coze中创建智能体时，以下哪一项是必填项?",
+    "prompt": "在Coze中创建智能体时，以下哪一项是必填项? 1",
     "options": [
       {
         "label": "A",
@@ -559,11 +638,11 @@
       },
       {
         "label": "C",
-        "text": "智能体功能介色"
+        "text": "智能体功能介绍"
       },
       {
         "label": "D",
-        "text": "工作空间选择隐藏答案未作答"
+        "text": "工作空间选择"
       }
     ],
     "answer": "B",
@@ -573,7 +652,7 @@
   {
     "number": 40,
     "type": "single",
-    "prompt": "Coze智能体的提示词不包括以下哪一项内容?",
+    "prompt": "Coze智能体的提示词不包括以下哪一项内容？",
     "options": [
       {
         "label": "A",
@@ -589,7 +668,7 @@
       },
       {
         "label": "D",
-        "text": "图像生成技巧未作答"
+        "text": "图像生成技巧"
       }
     ],
     "answer": "D",
@@ -599,11 +678,11 @@
   {
     "number": 41,
     "type": "single",
-    "prompt": "Coze平台支持的工作流节点中，以下哪一项不属于其核心功能?",
+    "prompt": "Coze平台支持的工作流节点中，以下哪一项不属于其核心功能？",
     "options": [
       {
         "label": "A",
-        "text": "大语二I=模型"
+        "text": "大语言模型"
       },
       {
         "label": "B",
@@ -611,7 +690,7 @@
       },
       {
         "label": "C",
-        "text": "硬件驱动控制DFE隐藏答案未作答"
+        "text": "硬件驱动控制"
       }
     ],
     "answer": "C",
@@ -621,7 +700,7 @@
   {
     "number": 44,
     "type": "single",
-    "prompt": "在文档提炼思维导图Bot中，最终生成的输出包括以下哪项?",
+    "prompt": "在文档提炼思维导图Bot中，最终生成的输出包括以下哪项？",
     "options": [
       {
         "label": "A",
@@ -637,7 +716,7 @@
       },
       {
         "label": "D",
-        "text": "Excel表格隐藏答案未作答"
+        "text": "Excel表格"
       }
     ],
     "answer": "B",
@@ -647,7 +726,7 @@
   {
     "number": 45,
     "type": "single",
-    "prompt": "在智能换脸Bot的案例中，以下哪个节点用于提升图像清晰度?",
+    "prompt": "在智能换脸Bot的案例中，以下哪个节点用于提升图像清晰 度?",
     "options": [
       {
         "label": "A",
@@ -663,7 +742,7 @@
       },
       {
         "label": "D",
-        "text": "扩图节点未作答"
+        "text": "扩图节点"
       }
     ],
     "answer": "B",
@@ -673,11 +752,23 @@
   {
     "number": 46,
     "type": "single",
-    "prompt": "在搭建私人知识库问答Bot时，以下哪种数据结构不被支持?AQA问答对BJSON结构化数组",
+    "prompt": "在搭建私人知识库问答Bot时，以下哪种数据结构不被支持？",
     "options": [
       {
+        "label": "A",
+        "text": "QA问答对"
+      },
+      {
+        "label": "B",
+        "text": "JSON结构化数组"
+      },
+      {
         "label": "C",
-        "text": "原文存储DXML结构未作答"
+        "text": "原文存储"
+      },
+      {
+        "label": "D",
+        "text": "XML结构"
       }
     ],
     "answer": "D",
@@ -687,7 +778,7 @@
   {
     "number": 49,
     "type": "single",
-    "prompt": "智能体 (Agent)xe一个更广泛的概念，指的是可以在环境中ral主感自pam eS知、决策并采取行动去实现特定目标的实体。智能体可以是以下哪些形式?",
+    "prompt": "智能体（Agent）是一个更广泛的概念，指的是可以在环境中自主感知、决策并采取行动去实现特定目标的实体。智能体可以是以下哪些形式？",
     "options": [
       {
         "label": "A",
@@ -703,7 +794,7 @@
       },
       {
         "label": "D",
-        "text": "以上都是隐藏答案未作答"
+        "text": "以上都是"
       }
     ],
     "answer": "D",
@@ -713,7 +804,7 @@
   {
     "number": 52,
     "type": "single",
-    "prompt": "LLM (大语it模型) 作为 Al Agent 的核心控制器，主要提升ral了Al Agent 的",
+    "prompt": "LLM（大语言模型）作为 AI Agent 的核心控制器，主要提升了 AI Agent 的？",
     "options": [
       {
         "label": "A",
@@ -729,7 +820,7 @@
       },
       {
         "label": "D",
-        "text": "以上都是隐藏答案未作答"
+        "text": "以上都是"
       }
     ],
     "answer": "D",
@@ -739,7 +830,7 @@
   {
     "number": 53,
     "type": "single",
-    "prompt": "Al Agent 的规划模块主要解决的问题是",
+    "prompt": "AI Agent 的规划模块主要解决的问题是？",
     "options": [
       {
         "label": "A",
@@ -755,7 +846,7 @@
       },
       {
         "label": "D",
-        "text": "以上都是隐藏答案未作答"
+        "text": "以上都是"
       }
     ],
     "answer": "A",
@@ -765,7 +856,7 @@
   {
     "number": 55,
     "type": "single",
-    "prompt": "Al Agent 的工具模块主要用于",
+    "prompt": "AI Agent 的工具模块主要用于？",
     "options": [
       {
         "label": "A",
@@ -781,7 +872,7 @@
       },
       {
         "label": "D",
-        "text": "以上都是未作答"
+        "text": "以上都是"
       }
     ],
     "answer": "D",
@@ -791,7 +882,7 @@
   {
     "number": 56,
     "type": "single",
-    "prompt": "Al Agent 的行动模块由以下哪个函数决定?",
+    "prompt": "AI Agent 的行动模块由以下哪个函数决定？",
     "options": [
       {
         "label": "A",
@@ -799,7 +890,7 @@
       },
       {
         "label": "B",
-        "text": "反馈 (Feedback) BX"
+        "text": "反馈 (Feedback) 函数"
       },
       {
         "label": "C",
@@ -807,7 +898,7 @@
       },
       {
         "label": "D",
-        "text": "以上都不是未作答"
+        "text": "以上都不是"
       }
     ],
     "answer": "A",
@@ -817,7 +908,7 @@
   {
     "number": 58,
     "type": "single",
-    "prompt": "Al Agent 的工作模式可以分为以下几种?",
+    "prompt": "AI Agent 的工作模式可以分为以下几种？",
     "options": [
       {
         "label": "A",
@@ -833,7 +924,7 @@
       },
       {
         "label": "D",
-        "text": "以上都是未作答D"
+        "text": "以上都是"
       }
     ],
     "answer": "D",
@@ -843,8 +934,12 @@
   {
     "number": 62,
     "type": "single",
-    "prompt": "Dify 平台支持以下哪些功能?ARAG 检索",
+    "prompt": "Dify 平台支持以下哪些功能？",
     "options": [
+      {
+        "label": "A",
+        "text": "RAG 检索"
+      },
       {
         "label": "B",
         "text": "模型管理"
@@ -855,7 +950,7 @@
       },
       {
         "label": "D",
-        "text": "以上都是未作答"
+        "text": "以上都是"
       }
     ],
     "answer": "D",
@@ -865,7 +960,7 @@
   {
     "number": 65,
     "type": "single",
-    "prompt": "在创建智能体应用时，以下哪项不是知识库导入过程中需要处ral理的内容?",
+    "prompt": "在创建智能体应用时，以下哪项不是知识库导入过程中需要处 a 理的内容?",
     "options": [
       {
         "label": "A",
@@ -881,7 +976,7 @@
       },
       {
         "label": "D",
-        "text": "界面颜色配置未作答"
+        "text": "界面颜色配置"
       }
     ],
     "answer": "D",
@@ -891,7 +986,7 @@
   {
     "number": 66,
     "type": "single",
-    "prompt": "Coze智能体应用的创建主要依赖于以下哪种数据库?",
+    "prompt": "Coze智能体应用的创建主要依赖于以下哪种数据库？",
     "options": [
       {
         "label": "A",
@@ -907,7 +1002,7 @@
       },
       {
         "label": "D",
-        "text": "图数据库隐藏答案未作答"
+        "text": "图数据库"
       }
     ],
     "answer": "A",
@@ -917,7 +1012,7 @@
   {
     "number": 67,
     "type": "single",
-    "prompt": "在Coze原生基础逻辑节点中，不包括以下哪项?",
+    "prompt": "在Coze原生基础遇辑节点中，不包括以下哪项? a",
     "options": [
       {
         "label": "A",
@@ -933,7 +1028,7 @@
       },
       {
         "label": "D",
-        "text": "插件节点未作答"
+        "text": "插件节点"
       }
     ],
     "answer": "C",
@@ -943,11 +1038,23 @@
   {
     "number": 68,
     "type": "single",
-    "prompt": "在知识库检索节点中，输出的结果通常是什么形式的?",
+    "prompt": "在知识库检索节点中，输出的结果通常是什么形式的？",
     "options": [
       {
         "label": "A",
-        "text": "圆形图BSQL碍询语句CJSON数据DHTML 页面未作答"
+        "text": "圆形图"
+      },
+      {
+        "label": "B",
+        "text": "SQL查询语句"
+      },
+      {
+        "label": "C",
+        "text": "JSON数据"
+      },
+      {
+        "label": "D",
+        "text": "HTML页面"
       }
     ],
     "answer": "C",
@@ -957,15 +1064,23 @@
   {
     "number": 69,
     "type": "single",
-    "prompt": "在用饼图展示数据时，Aname和valueBJSON格式数据",
+    "prompt": "在用饼图展示数据时，以下哪项不是饼图插件需要的参数？",
     "options": [
+      {
+        "label": "A",
+        "text": "name和value"
+      },
+      {
+        "label": "B",
+        "text": "JSON格式数据"
+      },
       {
         "label": "C",
         "text": "柱状图配置"
       },
       {
         "label": "D",
-        "text": "图表标题未作答"
+        "text": "图表标题"
       }
     ],
     "answer": "C",
@@ -975,7 +1090,7 @@
   {
     "number": 73,
     "type": "single",
-    "prompt": "在使用大模型优化工作流时，大模型需要接收几个参数?",
+    "prompt": "在使用大模型优化工作流时，大模型需要接收几个参数？",
     "options": [
       {
         "label": "A",
@@ -991,7 +1106,7 @@
       },
       {
         "label": "D",
-        "text": "4个未作答"
+        "text": "4个"
       }
     ],
     "answer": "B",
@@ -1001,8 +1116,25 @@
   {
     "number": 74,
     "type": "single",
-    "prompt": "最终生成的饼图数据格式是什么?ACSVBJSONCXMLDYAML隐藏答案未作答",
-    "options": [],
+    "prompt": "最终生成的饼图数据格式是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "CSV"
+      },
+      {
+        "label": "B",
+        "text": "JSON"
+      },
+      {
+        "label": "C",
+        "text": "XML"
+      },
+      {
+        "label": "D",
+        "text": "YAML"
+      }
+    ],
     "answer": "B",
     "explanation": "JSON是现代Web应用及大模型交互中最通用、最易于程序解析的结构化数据格式。",
     "image": "/questions/single-74.jpg"
@@ -1010,7 +1142,7 @@
   {
     "number": 76,
     "type": "single",
-    "prompt": "在课程中提到的理赔数据分析需求中，现以下哪种查询?",
+    "prompt": "在课程中提到的理赔数据分析需求中，用户可以通过智能体实现以下哪种查询？",
     "options": [
       {
         "label": "A",
@@ -1026,7 +1158,7 @@
       },
       {
         "label": "D",
-        "text": "查询数据库索引使用情况未作答"
+        "text": "查询数据库索引使用情况"
       }
     ],
     "answer": "C",
@@ -1036,7 +1168,7 @@
   {
     "number": 77,
     "type": "single",
-    "prompt": "在课程中提到的智能体应用开发流程中，最先进行的步骤是以下哪项?",
+    "prompt": "在课程中提到的智能体应用开发流程中，最先进行的步骤是以下哪项？",
     "options": [
       {
         "label": "A",
@@ -1052,7 +1184,7 @@
       },
       {
         "label": "D",
-        "text": "插件配置隐藏答案未作答"
+        "text": "插件配置"
       }
     ],
     "answer": "B",
@@ -1062,7 +1194,7 @@
   {
     "number": 78,
     "type": "single",
-    "prompt": "在课程中提到的智能体应用中，以下哪项不是工作流节点的类ral型?",
+    "prompt": "在课程中提到的智能体应用中，以下哪项不是工作流节点的类型？",
     "options": [
       {
         "label": "A",
@@ -1078,7 +1210,7 @@
       },
       {
         "label": "D",
-        "text": "结束节点未作答"
+        "text": "结束节点"
       }
     ],
     "answer": "C",
@@ -1088,7 +1220,7 @@
   {
     "number": 79,
     "type": "single",
-    "prompt": "在智能体应用中，哪一步骤能将用户自然语言需求自动转化为SQL语句并执行?",
+    "prompt": "在智能体应用中，哪一步骤能将用户自然语言需求自动转化为SQL语句并执行？",
     "options": [
       {
         "label": "A",
@@ -1104,7 +1236,7 @@
       },
       {
         "label": "D",
-        "text": "用户界面展示隐藏答案未作答"
+        "text": "用户界面展示"
       }
     ],
     "answer": "C",
@@ -1114,7 +1246,7 @@
   {
     "number": 81,
     "type": "multiple",
-    "prompt": "以下哪些技术属于智能体的功能范畴?",
+    "prompt": "以下哪些技术属于智能体的功能范畴? 但",
     "options": [
       {
         "label": "A",
@@ -1126,11 +1258,11 @@
       },
       {
         "label": "C",
-        "text": "股a===信息查询"
+        "text": "股票信息查询"
       },
       {
         "label": "D",
-        "text": "文生图与图生文未作答"
+        "text": "文生图与图生文"
       }
     ],
     "answer": "ACD",
@@ -1152,11 +1284,11 @@
       },
       {
         "label": "C",
-        "text": "整体远辑架构设计"
+        "text": "束体逻辑架构设计"
       },
       {
         "label": "D",
-        "text": "后端服务器配置未作答"
+        "text": "后端服务器配置"
       }
     ],
     "answer": "BC",
@@ -1166,11 +1298,15 @@
   {
     "number": 83,
     "type": "multiple",
-    "prompt": "AutoGen的多智能体协作功能有哪些应用场景?",
+    "prompt": "AutoGen的多智能体协作功能有哪些应用场景？",
     "options": [
       {
         "label": "A",
-        "text": "多智能体任务分解与协作BAPI集成与技能扩展"
+        "text": "多智能体任务分解与协作"
+      },
+      {
+        "label": "B",
+        "text": "API集成与技能扩展"
       },
       {
         "label": "C",
@@ -1178,7 +1314,7 @@
       },
       {
         "label": "D",
-        "text": "当前业务流程的自动化未作答"
+        "text": "当前业务流程的自动化"
       }
     ],
     "answer": "ACD",
@@ -1188,7 +1324,7 @@
   {
     "number": 84,
     "type": "multiple",
-    "prompt": "以下哪些功能属于DB-GPT的应用范围?",
+    "prompt": "以下哪些功能属于DB-GPT的应用范围？",
     "options": [
       {
         "label": "A",
@@ -1204,7 +1340,7 @@
       },
       {
         "label": "D",
-        "text": "本地知识库优化隐藏答案未作答"
+        "text": "本地知识库优化"
       }
     ],
     "answer": "AB",
@@ -1214,8 +1350,12 @@
   {
     "number": 85,
     "type": "multiple",
-    "prompt": "商用大模型优化可Bey及哪些技术操作?AGPU服务器部署",
+    "prompt": "商用大模型优化可能涉及哪些技术操作？",
     "options": [
+      {
+        "label": "A",
+        "text": "GPU服务器部署"
+      },
       {
         "label": "B",
         "text": "模型微调与导出"
@@ -1226,7 +1366,7 @@
       },
       {
         "label": "D",
-        "text": "在线表格集成与优化隐藏答案未作答"
+        "text": "在线表格集成与优化"
       }
     ],
     "answer": "AB",
@@ -1236,7 +1376,7 @@
   {
     "number": 86,
     "type": "multiple",
-    "prompt": "在课程中提到的智能体集成外部工具包括哪些功能?",
+    "prompt": "在课程中提到的智能体集成外部工具包括哪些功能? a",
     "options": [
       {
         "label": "A",
@@ -1252,7 +1392,7 @@
       },
       {
         "label": "D",
-        "text": "回复邮件与短信未作答"
+        "text": "回复邮件与短信"
       }
     ],
     "answer": "ABCD",
@@ -1262,7 +1402,7 @@
   {
     "number": 87,
     "type": "multiple",
-    "prompt": "本地大模型的部署方式可能包括以下哪些步骤?",
+    "prompt": "本地大模型的部署方式可能包括以下哪些步骤？",
     "options": [
       {
         "label": "A",
@@ -1270,11 +1410,15 @@
       },
       {
         "label": "B",
-        "text": "接入本地部署大模型CRAG技能添加"
+        "text": "接入本地部署大模型"
+      },
+      {
+        "label": "C",
+        "text": "RAG技能添加"
       },
       {
         "label": "D",
-        "text": "微调模型参数隐藏答案未作答"
+        "text": "微调模型参数"
       }
     ],
     "answer": "ABC",
@@ -1284,7 +1428,7 @@
   {
     "number": 88,
     "type": "multiple",
-    "prompt": "FastGPT的ca)yeah应用能力有哪些?",
+    "prompt": "FastGPT的综合应用能力有哪些? a",
     "options": [
       {
         "label": "A",
@@ -1300,7 +1444,7 @@
       },
       {
         "label": "D",
-        "text": "与本地大模型集成未作答"
+        "text": "与本地大模型集成"
       }
     ],
     "answer": "ABCD",
@@ -1310,8 +1454,12 @@
   {
     "number": 89,
     "type": "multiple",
-    "prompt": "在 Python 中，以下哪些数据类型ASSeA[三|变的?()AFH (str)",
+    "prompt": "在 Python 中，以下哪些数据类型是可变的? ”()",
     "options": [
+      {
+        "label": "A",
+        "text": "字符串 (str)"
+      },
       {
         "label": "B",
         "text": "列表 (list)"
@@ -1322,7 +1470,7 @@
       },
       {
         "label": "D",
-        "text": "字典 (dict)未作答"
+        "text": "字典 (dict)"
       }
     ],
     "answer": "BD",
@@ -1332,8 +1480,25 @@
   {
     "number": 90,
     "type": "multiple",
-    "prompt": "以下哪些是 Python 中常用的循环结构?Afor 循环Bwhile 循环Cdo...while 循环Dswitch 循环未作答",
-    "options": [],
+    "prompt": "以下哪些是 Python 中常用的循环结构？",
+    "options": [
+      {
+        "label": "A",
+        "text": "for 循环"
+      },
+      {
+        "label": "B",
+        "text": "while 循环"
+      },
+      {
+        "label": "C",
+        "text": "do...while 循环"
+      },
+      {
+        "label": "D",
+        "text": "switch 循环"
+      }
+    ],
     "answer": "AB",
     "explanation": "Python原生只支持for和while，不具备C语言风格的do...while和原生的switch (3.10后有match) 。",
     "image": "/questions/multiple-90.jpg"
@@ -1341,15 +1506,23 @@
   {
     "number": 91,
     "type": "multiple",
-    "prompt": "Python &ARRA",
+    "prompt": "在 Python 函数定义中，以下哪些是函数的组成部分?",
     "options": [
+      {
+        "label": "A",
+        "text": "函数名"
+      },
       {
         "label": "B",
         "text": "参数列表"
       },
       {
         "label": "C",
-        "text": "返回值DRE未作答"
+        "text": "返回值"
+      },
+      {
+        "label": "D",
+        "text": "函数体"
       }
     ],
     "answer": "ABCD",
@@ -1359,8 +1532,25 @@
   {
     "number": 92,
     "type": "multiple",
-    "prompt": "在异常处理中，以下哪些是 Python 中常用的用于处理异常的语句?Atry...exceptBtry...finallyCthrowDcatch未作答",
-    "options": [],
+    "prompt": "在异常处理中，以下哪些是 Python 中常用的用于处理异常的语句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "try...except"
+      },
+      {
+        "label": "B",
+        "text": "try...finally"
+      },
+      {
+        "label": "C",
+        "text": "throw"
+      },
+      {
+        "label": "D",
+        "text": "catch"
+      }
+    ],
     "answer": "AB",
     "explanation": "Python使try进行党试，except捕获异常，finally执全请a=#2; throw和catch是其他语言的关键字。",
     "image": "/questions/multiple-92.jpg"
@@ -1368,23 +1558,23 @@
   {
     "number": 93,
     "type": "multiple",
-    "prompt": "在扣子空ela),以下哪些场景适合使用专家模式?",
+    "prompt": "在扣子空间中，以下哪些场景适合使用专家模式？",
     "options": [
       {
         "label": "A",
-        "text": "处理复杂且专业性强的任如生成高质量海报"
+        "text": "处理复杂且专业性强的任务，如生成高质量海报"
       },
       {
         "label": "B",
-        "text": "进行Ha简单的日常任务，如文件浏览"
+        "text": "进行简单的日常任务，如文件浏览"
       },
       {
         "label": "C",
-        "text": "需要调用特定领域知识的任务，如旅攻略生成"
+        "text": "需要调用特定领域知识的任务，如旅行攻略生成"
       },
       {
         "label": "D",
-        "text": "随机任无需特定领域知识未作答AC确答案"
+        "text": "随机任务，无需特定领域知识"
       }
     ],
     "answer": "AC",
@@ -1394,11 +1584,15 @@
   {
     "number": 99,
     "type": "multiple",
-    "prompt": "在Coze中创建智能体时需要填写哪些人=o)aw!",
+    "prompt": "在Coze中创建智能体时需要填写哪些信息? 也",
     "options": [
       {
         "label": "A",
-        "text": "智能体名称BEBE AIDRE TTA"
+        "text": "智能体名称"
+      },
+      {
+        "label": "B",
+        "text": "智能体功能介绍"
       },
       {
         "label": "C",
@@ -1406,7 +1600,7 @@
       },
       {
         "label": "D",
-        "text": "智能体图标未作答"
+        "text": "智能体图标"
       }
     ],
     "answer": "ABCD",
@@ -1416,7 +1610,7 @@
   {
     "number": 100,
     "type": "multiple",
-    "prompt": "Coze智能体的提示词设置包括哪些内容?",
+    "prompt": "coze智能体的提示词设置包括哪些内容? 站",
     "options": [
       {
         "label": "A",
@@ -1432,7 +1626,7 @@
       },
       {
         "label": "D",
-        "text": "回复格式样例未作答"
+        "text": "回复格式样例"
       }
     ],
     "answer": "ABCD",
@@ -1442,7 +1636,7 @@
   {
     "number": 101,
     "type": "multiple",
-    "prompt": "以下哪些属于Coze平台支持的工作流节点功能?",
+    "prompt": "以下哪些属于Coze平台支持的工作流节点功能? f",
     "options": [
       {
         "label": "A",
@@ -1454,7 +1648,11 @@
       },
       {
         "label": "C",
-        "text": "图像泻染DFE隐藏答案未作答"
+        "text": "图像泻染"
+      },
+      {
+        "label": "D",
+        "text": "判断逻辑"
       }
     ],
     "answer": "ABD",
@@ -1464,7 +1662,7 @@
   {
     "number": 103,
     "type": "multiple",
-    "prompt": "在文档提炼思维导图Bot'的案例中，最终生成的输出包括哪些ralAR?",
+    "prompt": "在文档提炼思维导图Bot的案例中，最终生成的输出包括哪些内容？",
     "options": [
       {
         "label": "A",
@@ -1480,7 +1678,7 @@
       },
       {
         "label": "D",
-        "text": "视频文件未作答"
+        "text": "视频文件"
       }
     ],
     "answer": "BC",
@@ -1490,8 +1688,12 @@
   {
     "number": 104,
     "type": "multiple",
-    "prompt": "在趣味单词卡片Bot的案例中，最终生成的卡片包括以下哪些ralAR?ARM Bia]",
+    "prompt": "在趣味单词卡片Bot的案例中，最终生成的卡片包括以下哪些 a",
     "options": [
+      {
+        "label": "A",
+        "text": "英文单词"
+      },
       {
         "label": "B",
         "text": "中文翻译"
@@ -1502,7 +1704,7 @@
       },
       {
         "label": "D",
-        "text": "单词发音的MP3链接隐藏答案未作答"
+        "text": "单词发音的MP3链接"
       }
     ],
     "answer": "ABCD",
@@ -1512,7 +1714,7 @@
   {
     "number": 105,
     "type": "multiple",
-    "prompt": "Al Agent 的主要模块包括哪些 () ?",
+    "prompt": "AI Agent 的主要模块包括哪些？",
     "options": [
       {
         "label": "A",
@@ -1528,7 +1730,7 @@
       },
       {
         "label": "D",
-        "text": "行动未作答"
+        "text": "行动"
       }
     ],
     "answer": "ABCD",
@@ -1538,15 +1740,23 @@
   {
     "number": 112,
     "type": "multiple",
-    "prompt": "以下哪些是构建 Al Agent 的开发平台?",
+    "prompt": "以下哪些是构建 AI Agent 的开发平台？",
     "options": [
       {
         "label": "A",
-        "text": "文心智能体平台BEtinssth seeGLM 智能体CHIF Coze"
+        "text": "文心智能体平台"
+      },
+      {
+        "label": "B",
+        "text": "智谱清言 GLM 智能体"
+      },
+      {
+        "label": "C",
+        "text": "扣子 Coze"
       },
       {
         "label": "D",
-        "text": "AskXBOT未作答"
+        "text": "AskXBOT"
       }
     ],
     "answer": "ABCD",
@@ -1556,7 +1766,7 @@
   {
     "number": 113,
     "type": "multiple",
-    "prompt": "在Coze平台中，创建智能体应用涉及哪些方面?",
+    "prompt": "在Coze平台中，创建智能体应用涉及哪些方面? a",
     "options": [
       {
         "label": "A",
@@ -1572,7 +1782,7 @@
       },
       {
         "label": "D",
-        "text": "插件使用隐藏答案未作答"
+        "text": "插件使用"
       }
     ],
     "answer": "ABCD",
@@ -1598,7 +1808,7 @@
       },
       {
         "label": "D",
-        "text": "知识库的物理存储设计隐藏答案未作答"
+        "text": "知识库的物理存储设计"
       }
     ],
     "answer": "ABC",
@@ -1608,7 +1818,7 @@
   {
     "number": 115,
     "type": "multiple",
-    "prompt": "在使用饼图插件时，需要提供哪些1a=息?",
+    "prompt": "在使用饼图插件时，需要提供哪些信息?",
     "options": [
       {
         "label": "A",
@@ -1624,7 +1834,7 @@
       },
       {
         "label": "D",
-        "text": "数据库连接信息隐藏答案未作答"
+        "text": "数据库连接信息"
       }
     ],
     "answer": "ABC",
@@ -1634,7 +1844,7 @@
   {
     "number": 116,
     "type": "multiple",
-    "prompt": "在智能体应用中，哪些技术可以优化动态需求响应?",
+    "prompt": "在智能体应用中，哪些技术可以优化动态需求响应? a",
     "options": [
       {
         "label": "A",
@@ -1650,7 +1860,7 @@
       },
       {
         "label": "D",
-        "text": "手动编写所有代码逻辑未作答"
+        "text": "和手动编写所有代码协纯"
       }
     ],
     "answer": "ABC",
@@ -1676,7 +1886,7 @@
       },
       {
         "label": "D",
-        "text": "查询数据库的索引使用情况未作答"
+        "text": "查询数据库的索引使用情况"
       }
     ],
     "answer": "ABC",
@@ -1686,7 +1896,7 @@
   {
     "number": 118,
     "type": "multiple",
-    "prompt": "在智能体应用开发流程中，以下哪些步骤是必需的?",
+    "prompt": "在智能体应用开发流程中，以下哪些步骤是必需的? QD",
     "options": [
       {
         "label": "A",
@@ -1702,7 +1912,7 @@
       },
       {
         "label": "D",
-        "text": "手动部署服务器环境隐藏答案未作答"
+        "text": "手动部署服务器环境"
       }
     ],
     "answer": "ABC",
@@ -1720,7 +1930,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1730,7 +1940,7 @@
   {
     "number": 122,
     "type": "boolean",
-    "prompt": "智能体技术可应用于短视频文案创作和公众号内容生成。",
+    "prompt": "智能体技术可应用于短视频文案创作和公众号内容生成。 a",
     "options": [
       {
         "label": "A",
@@ -1738,7 +1948,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1748,7 +1958,7 @@
   {
     "number": 123,
     "type": "boolean",
-    "prompt": "RAG技术通过检索知识库来提升生成内容的相关性。",
+    "prompt": "RAG技术通过检索知识库来提升生成内容的相关性。 cL",
     "options": [
       {
         "label": "A",
@@ -1756,7 +1966,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1766,7 +1976,7 @@
   {
     "number": 125,
     "type": "boolean",
-    "prompt": "FastGPT可与Azure OpenAl及本地大模型集成。",
+    "prompt": "FastGPT可与Azure OpenAI及本地大模型集成。 a",
     "options": [
       {
         "label": "A",
@@ -1774,7 +1984,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1784,7 +1994,7 @@
   {
     "number": 128,
     "type": "boolean",
-    "prompt": "本地部署大模型必须使用GPU服务器。",
+    "prompt": "本地部署大模型必须使用GPU服务器。 a",
     "options": [
       {
         "label": "A",
@@ -1792,7 +2002,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -1802,7 +2012,7 @@
   {
     "number": 129,
     "type": "boolean",
-    "prompt": "智能体可集成外部工具实现股票查询和外语翻译等功能。",
+    "prompt": "智能体可集成外部工具实现股票查询和外语翻译等功能。 a",
     "options": [
       {
         "label": "A",
@@ -1810,7 +2020,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1820,7 +2030,7 @@
   {
     "number": 131,
     "type": "boolean",
-    "prompt": "智能客BES服工作流配置需定义用户交互远辑。",
+    "prompt": "智能客服工作流配置需定义用户交互逻辑。",
     "options": [
       {
         "label": "A",
@@ -1828,7 +2038,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1846,7 +2056,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1864,7 +2074,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -1874,11 +2084,15 @@
   {
     "number": 136,
     "type": "boolean",
-    "prompt": "智BES服系统的工作原理完全依赖外部工具集成。",
+    "prompt": "智能客服系统的工作原理完全依赖外部工具集成。",
     "options": [
       {
         "label": "A",
-        "text": "正确BigTR隐藏答未作答"
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -1888,7 +2102,7 @@
   {
     "number": 137,
     "type": "boolean",
-    "prompt": "在 Python 中，列表 (list) 是一种可变的数据Ase o",
+    "prompt": "在 Python 中，列表 (list) 是一种可变的数据类型 。 a",
     "options": [
       {
         "label": "A",
@@ -1896,7 +2110,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1906,7 +2120,7 @@
   {
     "number": 138,
     "type": "boolean",
-    "prompt": "Python 的 for 循环只能用于遍历列表，不能用于遍历其他序a列类型数据。",
+    "prompt": "Python 的 for 循环只能用于遍历列表，不能用于遍历其他序 fal 列类型数据。",
     "options": [
       {
         "label": "A",
@@ -1914,7 +2128,7 @@
       },
       {
         "label": "B",
-        "text": "错误co未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -1924,7 +2138,7 @@
   {
     "number": 139,
     "type": "boolean",
-    "prompt": "定义 Python &函数时，必须包含参数列表。",
+    "prompt": "定义 Python 函数时，必须包含参数列表。",
     "options": [
       {
         "label": "A",
@@ -1932,7 +2146,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -1942,11 +2156,15 @@
   {
     "number": 142,
     "type": "boolean",
-    "prompt": "Python 中，元组 (tuple) 支持元素的修改和添加操作。ral",
+    "prompt": "Python 中，元组 (tuple) 支持元素的修改和添加操作。 a",
     "options": [
       {
         "label": "A",
-        "text": "正确BigTR未作答"
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -1956,7 +2174,7 @@
   {
     "number": 143,
     "type": "boolean",
-    "prompt": "字典 (dict) 在 Python 中用于存储多个键值对，可通过键快速访问对应的值。",
+    "prompt": "字典 (dict) 在 Python 中用于存储多个键值对，可通过键快 a 速访问对应的值。",
     "options": [
       {
         "label": "A",
@@ -1964,7 +2182,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1982,7 +2200,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -1992,7 +2210,7 @@
   {
     "number": 147,
     "type": "boolean",
-    "prompt": "while 循环在 Python 中而女可杠明确#已号BAL 1(INR, TALI限循环。",
+    "prompt": "while 循环在 Python 中需要明确指定循环次数，无法实现无 上 限循环。",
     "options": [
       {
         "label": "A",
@@ -2000,7 +2218,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2010,7 +2228,7 @@
   {
     "number": 149,
     "type": "boolean",
-    "prompt": "Python 的函数必须有返回值。",
+    "prompt": "Python 的函数必须有返回值。 -",
     "options": [
       {
         "label": "A",
@@ -2018,7 +2236,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2036,7 +2254,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2046,7 +2264,7 @@
   {
     "number": 152,
     "type": "boolean",
-    "prompt": "Python 中，集合 (set) 中的元素是有序且可重复的。ral",
+    "prompt": "Python 中，集合 (set) 中的元素是有序且可重复的。 a",
     "options": [
       {
         "label": "A",
@@ -2054,7 +2272,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2072,7 +2290,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2090,7 +2308,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2100,7 +2318,7 @@
   {
     "number": 161,
     "type": "boolean",
-    "prompt": "在趣味单词卡片Bot中，生成的卡片不包含单词发音的MP3链ral接。",
+    "prompt": "在趣味单词卡片Bot中，生成的卡片不包含单词发音的MP3链 a 接。",
     "options": [
       {
         "label": "A",
@@ -2108,7 +2326,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答B"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2118,7 +2336,7 @@
   {
     "number": 165,
     "type": "boolean",
-    "prompt": "私人知识库问答Bot支持将内容以JSON结构化数组的形式存ral储。",
+    "prompt": "私人知识库问答Bot支持将内容以JSON结构化数组的形式存 a 储。",
     "options": [
       {
         "label": "A",
@@ -2126,7 +2344,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2144,7 +2362,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2154,7 +2372,7 @@
   {
     "number": 172,
     "type": "boolean",
-    "prompt": "Al Agent 的行动模块由反馈机制直接决定。",
+    "prompt": "AI Agent 的行动模块由反馈机制直接决定。",
     "options": [
       {
         "label": "A",
@@ -2162,7 +2380,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2172,7 +2390,7 @@
   {
     "number": 174,
     "type": "boolean",
-    "prompt": "Al Agent 的工具模块可以调用外部 API 获取额外信息。",
+    "prompt": "AI Agent 的工具模块可以调用外部 API 获取额外信息。",
     "options": [
       {
         "label": "A",
@@ -2180,7 +2398,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2194,7 +2412,11 @@
     "options": [
       {
         "label": "A",
-        "text": "正确BigTR隐藏答案未作答"
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2204,7 +2426,7 @@
   {
     "number": 184,
     "type": "boolean",
-    "prompt": "Al Agent 的行动模块与反馈机制无关。",
+    "prompt": "AI Agent 的行动模块与反馈机制无关。",
     "options": [
       {
         "label": "A",
@@ -2212,7 +2434,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2222,7 +2444,7 @@
   {
     "number": 185,
     "type": "boolean",
-    "prompt": "FEABAIA, ARERR RAL ERIS Re ICASQLral进行数据查询",
+    "prompt": "在智能体应用中，知识库检索节点可以将自然语言转化为SQL 2 进行数据查询。",
     "options": [
       {
         "label": "A",
@@ -2230,7 +2452,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2240,7 +2462,7 @@
   {
     "number": 187,
     "type": "boolean",
-    "prompt": "智能体应用的用户界面设计可以使用H5和人小程序两种方式。ral",
+    "prompt": "智能体应用的用户界面设计可以使用H5和小程序两种方式。 fal",
     "options": [
       {
         "label": "A",
@@ -2248,7 +2470,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答A"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2258,7 +2480,7 @@
   {
     "number": 188,
     "type": "boolean",
-    "prompt": "在使用饼图插件时，需要提供JSON格式的数据。",
+    "prompt": "在使用饼图插件时，需要提供JSON格式的数据。 a",
     "options": [
       {
         "label": "A",
@@ -2266,7 +2488,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2284,7 +2506,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2294,7 +2516,7 @@
   {
     "number": 190,
     "type": "boolean",
-    "prompt": "在智能体应用开发中，需求的动态响应主要依赖于页面的固定ral设计。",
+    "prompt": "在智能体应用开发中，需求的动态响应主要依赖于页面的固定 2 设计。",
     "options": [
       {
         "label": "A",
@@ -2302,7 +2524,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2312,7 +2534,7 @@
   {
     "number": 192,
     "type": "boolean",
-    "prompt": "在智全外体应用中，用户输入的内容会直接传递到大模型中ral处理",
+    "prompt": "在智能体应用中，用户输入的内容会直接传递到大模型中进行 - 处理。",
     "options": [
       {
         "label": "A",
@@ -2320,7 +2542,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答确答案"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2330,7 +2552,7 @@
   {
     "number": 193,
     "type": "boolean",
-    "prompt": "在智能体应用中，工作流节点的类型包括开始节点、知识库节ral点和结束节点。",
+    "prompt": "在智能体应用中，工作流节点的类型包括开始节点、知识库 点和结束节点。",
     "options": [
       {
         "label": "A",
@@ -2338,7 +2560,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2348,11 +2570,15 @@
   {
     "number": 195,
     "type": "boolean",
-    "prompt": "在智能体应用中，插件节点用于实现数据可视化功能。",
+    "prompt": "在智能体应用中，插件节点用于实现数据可视化功能。 a",
     "options": [
       {
         "label": "A",
-        "text": "正确BigTR答案隐aa未作答"
+        "text": "正确"
+      },
+      {
+        "label": "B",
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2362,7 +2588,7 @@
   {
     "number": 196,
     "type": "boolean",
-    "prompt": "在智能体应用中，代码节点主要用于解析和整理知识库检索的ral结果。",
+    "prompt": "在智能体应用中，代码节点主要用于解析和整理知识库检索的 (2 结果。",
     "options": [
       {
         "label": "A",
@@ -2370,7 +2596,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2380,7 +2606,7 @@
   {
     "number": 197,
     "type": "boolean",
-    "prompt": "在智能体应用中，大模型可以自动将自然语it需求转化为SQL语句。",
+    "prompt": "在智能体应用中，大模型可以自动将自然语言需求转化为SQL 语句。",
     "options": [
       {
         "label": "A",
@@ -2388,7 +2614,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
@@ -2398,7 +2624,7 @@
   {
     "number": 198,
     "type": "boolean",
-    "prompt": "在智能体应用开发中，用户界面设计Fete I程的最后一步。",
+    "prompt": "在智能体应用开发中，用户界面设计是整个流程的最后一步",
     "options": [
       {
         "label": "A",
@@ -2406,7 +2632,7 @@
       },
       {
         "label": "B",
-        "text": "错误隐藏答案未作答B"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2416,7 +2642,7 @@
   {
     "number": 199,
     "type": "boolean",
-    "prompt": "在智能体应用中，知识库可以自动关联多张表进行复杂查询。",
+    "prompt": "在智能体应用中，知识库可以自动关联多张表进行复杂查询。 a",
     "options": [
       {
         "label": "A",
@@ -2424,7 +2650,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "B",
@@ -2434,7 +2660,7 @@
   {
     "number": 200,
     "type": "boolean",
-    "prompt": "在智能体应用开发中，代码节点可以用于处理和转换知识库检索的结果。",
+    "prompt": "在智能体应用开发中，代码节点可以用于处理和转换知识库 检索的结果。",
     "options": [
       {
         "label": "A",
@@ -2442,7 +2668,7 @@
       },
       {
         "label": "B",
-        "text": "错误未作答"
+        "text": "错误"
       }
     ],
     "answer": "A",
